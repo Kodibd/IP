@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/Logo/CBS_News.png" group-title="News" radio="false",CBS News
+https://kodibd.github.io/IP/news/cbsn_header_prod.m3u8
