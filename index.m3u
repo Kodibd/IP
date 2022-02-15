@@ -5,3 +5,6 @@ https://kodibd.github.io/IP/news/cbsn_header_prod.m3u8
 https://kodibd.github.io/IP/news/HaberGlobal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://kodibd.github.io/Logo/bloomberg.jpg" group-title="News" radio="false",Bloomberg
 https://kodibd.github.io/IP/news/Bloomberg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DanceTV" tvg-logo="" group-title="Music" radio="false",DanceTV
+https://kodibd.github.io/IP/Music.m3u
