@@ -5,5 +5,29 @@ https://kodibd.github.io/IP/news/cbsn_header_prod.m3u8
 https://kodibd.github.io/IP/news/HaberGlobal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://kodibd.github.io/Logo/bloomberg.jpg" group-title="News" radio="false",Bloomberg
 https://kodibd.github.io/IP/news/Bloomberg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DanceTV" tvg-logo="" group-title="Music" radio="false",DanceTV
-https://kodibd.github.io/IP/Music.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Melodic Tech" tvg-logo="https://kodibd.github.io/Logo/melodic-tech.jpg" group-title="Music" radio="false",Melodic Tech
+https://eu-nl-012.worldcast.tv/dancetelevisionnine/dancetelevisionnine.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Best of Dance TV" tvg-logo="https://kodibd.github.io/Logo/DTlogo.jpg" group-title="Music" radio="false",Best of Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Deep House" tvg-logo="https://kodibd.github.io/Logo/deep-house.jpg" group-title="Music" radio="false",Deep House
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Chill AF  Chillout - Ambient & Eclectic" tvg-logo="https://kodibd.github.io/Logo/chill-af.jpg" group-title="Music" radio="false",Chill AF  Chillout - Ambient & Eclectic
+https://eu-nl-012.worldcast.tv/dancetelevisioneight/2/dancetelevisioneight.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="House Floor" tvg-logo="https://kodibd.github.io/Logo/house.jpg" group-title="Music" radio="false",House Floor
+https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EDM Mainstage" tvg-logo="https://kodibd.github.io/Logo/edm-mainstage.jpg" group-title="Music" radio="false",EDM Mainstage
+https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The deeper side of Tech and House" tvg-logo="https://kodibd.github.io/Logo/deep-tech-minimal.jpg" group-title="Music" radio="false",The deeper side of Tech and House
+https://eu-nl-012.worldcast.tv/dancetelevisionsix/2/dancetelevisionsix.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Algorhythm | Tech House" tvg-logo="https://kodibd.github.io/Logo/algorhythm.jpg" group-title="Music" radio="false",Algorhythm | Tech House
+https://eu-nl-012.worldcast.tv/dancetelevisionfour/2/dancetelevisionfour.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Techno Warehouse" tvg-logo="https://kodibd.github.io/Logo/techno.jpg" group-title="Music" radio="false",Techno Warehouse
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
