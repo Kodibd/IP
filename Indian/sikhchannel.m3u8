@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:0,sikhchannel
-https://sikhchannel.gcdn.co/streams/22180_63798/playlist.m3u8
-#EXTINF:0,sikhchannel
 https://sikhchannel.gcdn.co/streams/22180_63798/360n/index.m3u8
