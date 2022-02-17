@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Soma FM" tvg-logo="https://kodibd.github.io/Logo/radio/soma/somafm.jpg" group-title="Soma" radio="true",Soma FM
+https://ice1.somafm.com/specials-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="Groove Salad" tvg-logo="https://kodibd.github.io/Logo/radio/soma/groovesalad.jpg" group-title="Soma" radio="true",Groove Salad
+https://ice1.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="Groove Salad Classic" tvg-logo="https://kodibd.github.io/Logo/radio/soma/gsclassic.jpg" group-title="Soma" radio="true",Groove Salad Classic
+https://ice1.somafm.com/gsclassic-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="Lusth" tvg-logo="https://kodibd.github.io/Logo/radio/soma/lush.jpg" group-title="Soma" radio="true",Lusth
+https://ice1.somafm.com/lush-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="Suburbs of Goa" tvg-logo="https://kodibd.github.io/Logo/radio/soma/suburbsofgoa.jpg" group-title="Soma" radio="true",Suburbs of Goa
+https://ice1.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="Space Station Soma" tvg-logo="https://kodibd.github.io/Logo/radio/soma/spacestation.jpg" group-title="Soma" radio="true",Space Station Soma
+https://ice1.somafm.com/spacestation-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="PopTron" tvg-logo="https://kodibd.github.io/Logo/radio/soma/poptron.jpg" group-title="Soma" radio="true",PopTron
+https://ice1.somafm.com/poptron-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="n5MD Radio" tvg-logo="https://kodibd.github.io/Logo/radio/soma/n5md.png" group-title="Soma" radio="true",n5MD Radio
+https://ice1.somafm.com/n5md-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="Fluid" tvg-logo="https://kodibd.github.io/Logo/radio/soma/fluid.jpg" group-title="Soma" radio="true",Fluid
+https://ice1.somafm.com/fluid-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="Drone Zone" tvg-logo="https://kodibd.github.io/Logo/radio/soma/dronezone.jpg" group-title="Soma" radio="true",Drone Zone
+https://ice1.somafm.com/dronezone-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="Deep Space One" tvg-logo="https://kodibd.github.io/Logo/radio/soma/deepspaceone.jpg" group-title="Soma" radio="true",Deep Space One
+https://ice1.somafm.com/deepspaceone-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="DEF CON Radio" tvg-logo="https://kodibd.github.io/Logo/radio/soma/defcon.jpg" group-title="Soma" radio="true",DEF CON Radio
+https://ice1.somafm.com/defcon-128-mp3
