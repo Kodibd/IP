@@ -12,7 +12,7 @@ https://kodibd.github.io/IP/news/bloomberguk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg US" tvg-logo="https://kodibd.github.io/Logo/bloomberg.jpg" group-title="News" radio="false",Bloomberg US
 https://kodibd.github.io/IP/news/Bloomberg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sikh Channel" tvg-logo="https://kodibd.github.io/Logo/" group-title="Indian" radio="false",Sikh Channel
-https://kodibd.github.io/IP/Indian/sikhchannel.m3u8
+https://sikhchannel.gcdn.co/streams/22180_63798/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Melodic Tech" tvg-logo="https://kodibd.github.io/Logo/melodic-tech.jpg" group-title="Music" radio="false",Melodic Tech
 https://eu-nl-012.worldcast.tv/dancetelevisionnine/dancetelevisionnine.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Best of Dance TV" tvg-logo="https://kodibd.github.io/Logo/DTlogo.jpg" group-title="Music" radio="false",Best of Dance TV
