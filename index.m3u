@@ -17,6 +17,8 @@ https://kodibd.github.io/IP/news/Bloomberg.m3u8
 https://kodibd.github.io/IP/Indian/sikhchannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/turkish/trt/trt2.jpg" group-title="TRT;Turkish" radio="false",TRT2
 https://kodibd.github.io/IP/turkish/trt/trt2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor" tvg-logo="https://kodibd.github.io/IP/turkish/trt/trtspor.png" group-title="TRT;Turkish;Sports" radio="false",TRT Spor
+https://kodibd.github.io/IP/turkish/trt/trtspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Köy TV" tvg-logo="https://kodibd.github.io/Logo/" group-title="Nature;Turkish" radio="false",Köy TV
 https://kodibd.github.io/IP/turkish/koytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Çiftçi TV" tvg-logo="https://kodibd.github.io/Logo/" group-title="Nature;Turkish" radio="false",Çiftçi TV
