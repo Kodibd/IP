@@ -11,7 +11,7 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1640041249&st=wb0OhPrn
 https://kodibd.github.io/IP/news/bloomberguk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg US" tvg-logo="https://kodibd.github.io/Logo/bloomberg.jpg" group-title="News" radio="false",Bloomberg US
 https://kodibd.github.io/IP/news/Bloomberg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sikh Channel" tvg-logo="https://kodibd.github.io/Logo/" group-title="Indian" radio="false",Sikh Channel
+#EXTINF:-1 tvg-id="" tvg-name="Sikh Channel" tvg-logo="https://kodibd.github.io/IP/Indian/sikh_channel.png" group-title="Indian" radio="false",Sikh Channel
 https://kodibd.github.io/IP/Indian/sikhchannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Köy TV" tvg-logo="https://kodibd.github.io/Logo/" group-title="Nature" radio="false",Köy TV
 https://kodibd.github.io/IP/turkish/koytv.m3u8
