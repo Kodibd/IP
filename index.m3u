@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/Logo/nhkw.png" group-title="News" radio="false",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/Logo/nhkw.png" group-title="News;JP" radio="false",NHK World
 https://kodibd.github.io/IP/news/nhkw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV News" tvg-logo="https://kodibd.github.io/Logo/news/jp/ntvnewsjp.png" group-title="News;JP" radio="false",NTV News
+https://kodibd.github.io/IP/news/jp/ntvnewsjp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/Logo/CBS_News.png" group-title="News" radio="false",CBS News
 https://kodibd.github.io/IP/news/cbsn_header_prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Haber Global" tvg-logo="https://kodibd.github.io/Logo/HaberGlobal.jpg" group-title="News" radio="false",Haber Global
