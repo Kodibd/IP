@@ -5,9 +5,9 @@ https://kodibd.github.io/IP/news/nhkw.m3u8
 https://kodibd.github.io/IP/news/jp/ntvnewsjp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/Logo/CBS_News.png" group-title="News" radio="false",CBS News
 https://kodibd.github.io/IP/news/cbsn_header_prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Haber Global" tvg-logo="https://kodibd.github.io/Logo/HaberGlobal.jpg" group-title="News" radio="false",Haber Global
+#EXTINF:-1 tvg-id="" tvg-name="Haber Global" tvg-logo="https://kodibd.github.io/Logo/HaberGlobal.jpg" group-title="News;Turkish" radio="false",Haber Global
 https://kodibd.github.io/IP/news/HaberGlobal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://kodibd.github.io/Logo/bloomberght.png" group-title="News" radio="false",Bloomberg HT
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://kodibd.github.io/Logo/bloomberght.png" group-title="News;Turkish" radio="false",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1640041249&st=wb0OhPrnDIJsygZVLJJYEw&tv=1&ce=1
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg UK" tvg-logo="https://kodibd.github.io/Logo/blommberguk.png" group-title="News" radio="false",Bloomberg UK
 https://kodibd.github.io/IP/news/bloomberguk.m3u8
@@ -19,11 +19,13 @@ https://kodibd.github.io/IP/Indian/sikhchannel.m3u8
 https://kodibd.github.io/IP/turkish/trt/trt2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Spor" tvg-logo="https://kodibd.github.io/IP/turkish/trt/trtspor.png" group-title="TRT;Turkish;Sports" radio="false",TRT Spor
 https://kodibd.github.io/IP/turkish/trt/trtspor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor2" tvg-logo="https://kodibd.github.io/IP/turkish/trt/trtspor2.png" group-title="TRT;Turkish;Sports" radio="false",TRT Spor2
+https://kodibd.github.io/IP/turkish/trt/trtspor2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Köy TV" tvg-logo="https://kodibd.github.io/Logo/" group-title="Nature;Turkish" radio="false",Köy TV
 https://kodibd.github.io/IP/turkish/koytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Çiftçi TV" tvg-logo="https://kodibd.github.io/Logo/" group-title="Nature;Turkish" radio="false",Çiftçi TV
 https://kodibd.github.io/IP/turkish/ciftcitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Woman TV" tvg-logo="" group-title="Woman" radio="false;Turkish",Woman TV
+#EXTINF:-1 tvg-id="" tvg-name="Woman TV" tvg-logo="" group-title="Woman" radio="false;Turkish;Woman",Woman TV
 https://kodibd.github.io/IP/turkish/womantv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Melodic Tech" tvg-logo="https://kodibd.github.io/Logo/melodic-tech.jpg" group-title="Music" radio="false",Melodic Tech
 https://eu-nl-012.worldcast.tv/dancetelevisionnine/dancetelevisionnine.m3u8
