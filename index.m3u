@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="nhk.or.jp" tvg-country="JP" tvg-language="Japans" tvg-logo="https://kodibd.github.io/Logo/nhkw.png" group-title="News",NHK World(720p) [Not 24/7]
-https://kodibd.github.io/IP/news/nhkw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/Logo/nhkw.png" group-title="News;JP" radio="false",NHK World
 https://kodibd.github.io/IP/news/nhkw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV News" tvg-logo="https://kodibd.github.io/Logo/news/jp/ntvnewsjp.png" group-title="News;JP" radio="false",NTV News
