@@ -21,7 +21,7 @@ https://kodibd.github.io/IP/turkish/trt/trt2.m3u8
 https://kodibd.github.io/IP/turkish/trt/trtspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Spor2" tvg-logo="https://kodibd.github.io/IP/turkish/trt/trtspor2.png" group-title="TRT;Turkish;Sports" radio="false",TRT Spor2
 https://kodibd.github.io/IP/turkish/trt/trtspor2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Yaban TV B" tvg-logo="https://www.png" group-title="Nature" radio="false",Yaban TV
+#EXTINF:-1 tvg-id="" tvg-name="Yaban TV B" tvg-logo="https://kodibd.github.io/Logo/nature/yaban.png" group-title="Nature" radio="false",Yaban TV
 https://kodibd.github.io/IP/turkish/yaban.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Köy TV" tvg-logo="https://kodibd.github.io/Logo/" group-title="Nature;Turkish" radio="false",Köy TV
 https://kodibd.github.io/IP/turkish/koytv.m3u8
