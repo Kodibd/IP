@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,RESOLUTION=1280x720
-https://ciner-live.ercdn.net/haberturk/haberturk_720p.m3u8?e=1645841100&st=dRplhHeDqKBaXk_-WOsNIg&tv=1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=750000,RESOLUTION=854x480
-https://ciner-live.ercdn.net/haberturk/haberturk_480p.m3u8?e=1645841100&st=dRplhHeDqKBaXk_-WOsNIg&tv=1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=450000,RESOLUTION=640x360
-https://ciner-live.ercdn.net/haberturk/haberturk_360p.m3u8?e=1645841100&st=dRplhHeDqKBaXk_-WOsNIg&tv=1
