@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="JP;News;World" radio="false",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="news/JP_NHKW/nhkw.png" group-title="JP;News;World" radio="false",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV News 24" tvg-logo="https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.png" group-title="JP;News;World" radio="false",NTV News 24
 https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.m3u8
