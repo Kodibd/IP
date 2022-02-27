@@ -5,7 +5,7 @@
 
 | Channel Logo                                                  | Channel Name                          | Channel       |
 | :---                                                          |    :----:                             |          ---: |
-| <img src="techno.jpg" alt="drawing" width="75"/>              | [Techno](techno.jpg)                  | Dance TV      |
+| <img src="JP_NHKW/nhkw.png" alt="drawing" width="75"/>              | [Techno](JP_NHKW/nhkw.png)                  | Dance TV      |
 | <img src="melodic-tech.jpg" alt="drawing" width="75"/>        | [Melodic Tech](melodic-tech.jpg)      | Dance TV      |
 | <img src="house.jpg" alt="drawing" width="75"/>               | [House](house.jpg)                    | Dance TV      |
 | <img src="edm-mainstage.jpg" alt="drawing" width="75"/>       | [EDM](edm-mainstage.jpg)              | Dance TV      |
@@ -21,6 +21,6 @@
 | <img src="bloomberght.png" alt="drawing" width="75"/>         | [Bloomber HT](bloomberght.png)        | News          |
 
 
-
+news/JP_NHKW/nhkw.png
 https://kodibd.github.io/Logo/
 
