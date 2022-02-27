@@ -6,7 +6,7 @@
 | Channel Logo                                                  | Channel Name                          | Channel       |
 | :---                                                          |    :----:                             |          ---: |
 | <img src="JP_NHKW/nhkw.png" alt="drawing" width="75"/>              | [Techno](JP_NHKW/nhkw.png)                  | Dance TV      |
-| <img src="melodic-tech.jpg" alt="drawing" width="75"/>        | [Melodic Tech](melodic-tech.jpg)      | Dance TV      |
+| <img src="news/JP_NHKW/nhkw.png" alt="drawing" width="75"/>        | [Melodic Tech](news/JP_NHKW/nhkw.png)      | Dance TV      |
 | <img src="house.jpg" alt="drawing" width="75"/>               | [House](house.jpg)                    | Dance TV      |
 | <img src="edm-mainstage.jpg" alt="drawing" width="75"/>       | [EDM](edm-mainstage.jpg)              | Dance TV      |
 | <img src="deep-tech-minimal.jpg" alt="drawing" width="75"/>   | [Deep Tech](deep-tech-minimal.jpg)    | Dance TV      |
