@@ -1,5 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=581169,RESOLUTION=640x360,FRAME-RATE=29.970,CODECS="avc1.4D401E,mp4a.40.2"
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://kodibd.github.io/IP/news/TR_BloombergHT/bht.png" group-title="News" radio="false",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1640041249&st=wb0OhPrnDIJsygZVLJJYEw&tv=1&ce=1
