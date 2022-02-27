@@ -5,8 +5,8 @@ https://kodibd.github.io/IP/news/
 
 | Channel Logo                                                  | Channel Name                          | Channel       |
 | :---                                                          |    :----:                             |          ---: |
-| <img src="JP_NHKW/nhkw.png" alt="drawing" width="75"/>              | [Techno](JP_NHKW/nhkw.png)                  | Dance TV      |
-| <img src="JP_NtvNews/ntvnewsjp.png"  width="75"/>        | [Melodic Tech](JP_NtvNews/ntvnewsjp.png)      | Dance TV      |
+| <img src="JP_NHKW/nhkw.png" alt="drawing" width="75"/>        | [Techno](JP_NHKW/nhkw.png)            | Dance TV      |
+| <img src="ntvnewsjp.png"  width="75"/>                        | [Melodic Tech](ntvnewsjp.png)         | Dance TV      |
 | <img src="house.jpg" alt="drawing" width="75"/>               | [House](house.jpg)                    | Dance TV      |
 | <img src="edm-mainstage.jpg" alt="drawing" width="75"/>       | [EDM](edm-mainstage.jpg)              | Dance TV      |
 | <img src="deep-tech-minimal.jpg" alt="drawing" width="75"/>   | [Deep Tech](deep-tech-minimal.jpg)    | Dance TV      |
