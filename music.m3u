@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://kodibd.github.io/IP/music/power/ptv.png" group-title="Music" radio="false",Power TV
+https://kodibd.github.io/IP/music/power/ptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV Love" tvg-logo="https://kodibd.github.io/IP/music/power/ptvl.png" group-title="Music" radio="false",Power TV Love
+https://kodibd.github.io/IP/music/power/ptvl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV Dance" tvg-logo="https://kodibd.github.io/IP/music/power/ptvd.png" group-title="Music" radio="false",Power TV Dance
+https://kodibd.github.io/IP/music/power/ptvd.m3u8
