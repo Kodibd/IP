@@ -13,3 +13,9 @@ https://kodibd.github.io/IP/news/UK_Bloomberg/buk.m3u8
 https://kodibd.github.io/IP/news/US_Bloomberg/bus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/IP/news/US_CBSNews/cbsn.png" group-title="News;   [COLOR red]US[/COLOR]" radio="false",CBS News
 https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://kodibd.github.io/IP/music/power/powertv.png" group-title="Music" radio="false",Power TV
+https://kodibd.github.io/IP/music/power/powertv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV Love" tvg-logo="https://kodibd.github.io/IP/music/power/powerlove.png" group-title="Music" radio="false",Power TV Love
+https://kodibd.github.io/IP/music/power/powerlovel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV Dance" tvg-logo="https://kodibd.github.io/IP/music/power/powerdance.png" group-title="Music" radio="false",Power TV Dance
+https://kodibd.github.io/IP/music/power/powerdance.m3u8
