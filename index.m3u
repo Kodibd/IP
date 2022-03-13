@@ -39,9 +39,9 @@ https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks
 https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tivi Türk" tvg-logo="http://onex-media.com/wp-content/uploads/2018/12/32.png" group-title="Turkey" radio="false",tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İBB TV1" tvg-logo="Council/ibb/ibbtv.png" group-title="İBB" radio="false",İBB TV1
+#EXTINF:-1 tvg-id="" tvg-name="İBB TV1" tvg-logo="https://kodibd.github.io/IP/Council/ibb/ibbtv.png" group-title="İBB" radio="false",İBB TV1
 https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İBB TV2" tvg-logo="Council/ibb/ibbtv.png" group-title="İBB" radio="false",İBB TV2
+#EXTINF:-1 tvg-id="" tvg-name="İBB TV2" tvg-logo="https://kodibd.github.io/IP/Council/ibb/ibbtv.png" group-title="İBB" radio="false",İBB TV2
 http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Selçuk Universitesi" tvg-logo="" group-title="" radio="false",Selçuk Universitesi
 https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
