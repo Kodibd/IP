@@ -69,16 +69,20 @@ https://stream.34bit.net/ar.opus
 https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kosmos FM GR" tvg-logo="https://www.lyngsat-logo.com/logo/radio/ee/ert_gr_radio_4.png" group-title="Greece" radio="true",Kosmos FM GR
 https://radiostreaming.ert.gr/ert-kosmos
-#EXTINF:-1,CGTN Englis
+/*  ----------------------------------------------------------------------------  */
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Englis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="News;World" radio="false",CGTN Englis
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1,CGTN French
+#EXTINF:-1 tvg-id="" tvg-name="CGTN French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_francais.png" group-title="News;World" radio="false",CGTN French
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1,CGTN Russian
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Russian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_russkij.png" group-title="News;World" radio="false",CGTN Russian
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1,CGTN Espanol
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Espanol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_espanol.png" group-title="News;World" radio="false",CGTN Espanol
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1,CGTN Document
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="News;World" radio="false",CGTN Document
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+
+
 #EXTINF:-1,TRT2
 https://trtcanlitv-lh.akamaihd.net/i/TRT2_1@107981/master.m3u8
 #EXTINF:-1,Çiftçi TV
