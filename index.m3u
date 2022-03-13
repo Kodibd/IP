@@ -69,3 +69,35 @@ https://stream.34bit.net/ar.opus
 https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kosmos FM GR" tvg-logo="https://www.lyngsat-logo.com/logo/radio/ee/ert_gr_radio_4.png" group-title="Greece" radio="true",Kosmos FM GR
 https://radiostreaming.ert.gr/ert-kosmos
+#EXTINF:-1,CGTN Englis
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1,CGTN French
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1,CGTN Russian
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1,CGTN Espanol
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1,CGTN Document
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1,TRT2
+https://trtcanlitv-lh.akamaihd.net/i/TRT2_1@107981/master.m3u8
+#EXTINF:-1,Çiftçi TV
+https://59cba4d34b678.streamlock.net/canlitv/ciftcitv/playlist.m3u8?hash=6152bd85be72d006723bf31998f1ac36
+#EXTINF:-1,Yaban TV 
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=6152bd85be72d006723bf31998f1ac36
+#EXTINF:-1,Haber Sputnik_Tur
+https://nfw.ria.ru/flv/audio.aspx?ID=98318704&amp;type=mp3 
+#EXTINF:-1,Haber Sputnik_Eng
+https://nfw.ria.ru/flv/audio.aspx?ID=75651129&type=mp3
+#EXTINF:-1,FG House Chic
+http://radiofg.impek.com/fgc64.aac
+#EXTINF:-1,FG Radio 93,7
+http://37.1.144.106:9001/;stream/1
+#EXTINF:-1,FG Undrgrnd
+http://radiofg.impek.com/ufg.mp3
+#EXTINF:-1,ITU Radio Rock
+http://160.75.86.29:8088
+#EXTINF:-1,Üniversite ITU Radio Jazz/Blues
+http://160.75.86.29:8090
+#EXTINF:-1,Üniversite ITU Radio Classical
+http://160.75.86.29:8097
