@@ -31,3 +31,37 @@ https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&pro
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=nhradio&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1 TV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/nn/nh-tv-nl.png" group-title="Netherlands;   [COLOR red]NL[/COLOR]" radio="false",L1 TV
 https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUPprdLCjaZuVykvtrEvYXxOd2V32RZWjUmWn_=s900-c-k-c0x00ffffff-no-rj" group-title="Turkey" radio="false",Life TV
+https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tivi Türk" tvg-logo="http://onex-media.com/wp-content/uploads/2018/12/32.png" group-title="Turkey" radio="false",tivi Türk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İBB TV" tvg-logo="" group-title="" radio="false",İBB TV
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İBB TV" tvg-logo="" group-title="" radio="false",İBB TV
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Selçuk Universitesi" tvg-logo="" group-title="University TV" radio="false",Selçuk Universitesi
+https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" group-title="Turkey;Music" radio="false",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="" group-title="Nature" radio="true",Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=ffdab7722945152444140f32c79b717b
+#EXTINF:-1 tvg-id="" tvg-name="XMen1" tvg-logo="" group-title="Movie" radio="false",XMen1
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XMen2" tvg-logo="" group-title="Movie" radio="false",XMen2
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
+https://radio-trtturku.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Nağme" tvg-logo="" group-title="TRT" radio="true",TRT Nağme
+https://radio-trtnagme.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ankara Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Ankara Universite
+http://radyo.cc.ankara.edu.tr:8089/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Radyo Universite
+http://radyo.cu.edu.tr/Stream1?type=http
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Radyo Universite
+http://radyo.cu.edu.tr/Stream1
+#EXTINF:-1 tvg-id="" tvg-name="Radyo ODTÜ" tvg-logo="" group-title="UniversityRadio" radio="true",Radyo ODTÜ
+http://stream.radyoodtu.com.tr:8006/
+#EXTINF:-1 tvg-id="" tvg-name="Açık Radyo" tvg-logo="" group-title="Agenda" radio="true",Açık Radyo
+https://stream.34bit.net/ar.opus
+#EXTINF:-1 tvg-id="" tvg-name="Kosmos FM GR" tvg-logo="https://www.lyngsat-logo.com/logo/radio/ee/ert_gr_radio_4.png" group-title="Greece" radio="true",Kosmos FM GR
+https://radiostreaming.ert.gr/ert-kosmos
