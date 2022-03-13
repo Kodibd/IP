@@ -69,3 +69,7 @@ http://stream.radyoodtu.com.tr:8006/
 https://stream.34bit.net/ar.opus
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="" group-title="Nature" radio="true",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=ffdab7722945152444140f32c79b717b
+#EXTINF:-1 tvg-id="" tvg-name="XMen1" tvg-logo="" group-title="Movie" radio="false",XMen1
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XMen2" tvg-logo="" group-title="Movie" radio="false",XMen2
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
