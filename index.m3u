@@ -65,3 +65,6 @@ http://stream.radyoodtu.com.tr:8006/
 https://stream.34bit.net/ar.opus
 #EXTINF:-1 tvg-id="" tvg-name="Kosmos FM GR" tvg-logo="https://www.lyngsat-logo.com/logo/radio/ee/ert_gr_radio_4.png" group-title="Greece" radio="true",Kosmos FM GR
 https://radiostreaming.ert.gr/ert-kosmos
+<!-- Diziler -->
+#EXTINF:-1 tvg-id="" tvg-name="KRT" tvg-logo="https://www.krttv.com.tr/images/banner/krt_tv_logo.png" group-title="Gündem",KRT
+https://www.youtube.com/watch?v=bEMPAaOPWJI&ab_channel=KRTTVCanl%C4%B1Yay%C4%B1n
