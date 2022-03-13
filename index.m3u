@@ -49,8 +49,6 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=ffdab77229
 http://www.deadlyblogger.com/NewRelease/xmen1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XMen2" tvg-logo="" group-title="Movie" radio="false",XMen2
 http://www.deadlyblogger.com/NewRelease/xmen2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="She Devil" tvg-logo="" group-title="Movie" radio="false",She Devil
-https://odnoklassniki.ru/videoembed/82774330043
 #EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
 https://radio-trtturku.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Nağme" tvg-logo="" group-title="TRT" radio="true",TRT Nağme
