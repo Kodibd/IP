@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Youtube
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NHK World
 https://www.youtube.com/embed/kiyi-C7NQrQ
