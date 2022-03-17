@@ -46,7 +46,7 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="" group-title="Nature" radio="false",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=ffdab7722945152444140f32c79b717b
 //
-#EXTINF:-1 tvg-id="" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trt2.jpg" group-title="TRT" radio="false",TRT2
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trt2.jpg" group-title="TRT" radio="false",TRT2
 https://kodibd.github.io/IP/tr/trt/trt2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Belgesel" tvg-logo="" group-title="Nature" radio="false",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
