@@ -83,8 +83,10 @@ https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="News;World" radio="false",CGTN Document
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="News;World" radio="false",test
+https://kodibd.github.io/button/test/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="News;World" radio="false",test
+https://kodibd.github.io/button/test/index.m3u
 
 #EXTINF:-1,TRT2
 https://trtcanlitv-lh.akamaihd.net/i/TRT2_1@107981/master.m3u8
