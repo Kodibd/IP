@@ -22,7 +22,7 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DeeJay TV" tvg-logo="https://kodibd.github.io/IP/music/deejay/deejay.png" group-title="Music" radio="false",DeeJay TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Netherlands RTV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rtv_noord_nl_tv.png" group-title="Netherlands;   [COLOR red]NL[/COLOR]" radio="false",Netherlands RTV
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rtv_noord_nl_tv.png" group-title="Netherlands;   [COLOR red]NL[/COLOR]" radio="false",RTV
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NH TV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/nn/nh-tv-nl.png" group-title="Netherlands" radio="false",NH TV
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
@@ -44,7 +44,7 @@ https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="" group-title="Nature" radio="false",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=ffdab7722945152444140f32c79b717b
-//
+
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trt2.jpg" group-title="TRT" radio="false",TRT2
 https://kodibd.github.io/IP/tr/trt/trt2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Belgesel" tvg-logo="" group-title="Nature" radio="false",TRT Belgesel
@@ -71,17 +71,19 @@ https://stream.34bit.net/ar.opus
 https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kosmos FM GR" tvg-logo="https://www.lyngsat-logo.com/logo/radio/ee/ert_gr_radio_4.png" group-title="Greece" radio="true",Kosmos FM GR
 https://radiostreaming.ert.gr/ert-kosmos
-/*  ----------------------------------------------------------------------------  */
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Englis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="News;World" radio="false",CGTN Englis
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Englis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Englis
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_francais.png" group-title="News;World" radio="false",CGTN French
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_francais.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN French
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Russian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_russkij.png" group-title="News;World" radio="false",CGTN Russian
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Russian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_russkij.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Russian
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Espanol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_espanol.png" group-title="News;World" radio="false",CGTN Espanol
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Espanol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_espanol.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Espanol
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="News;World" radio="false",CGTN Document
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Nature;   [COLOR red]CN[/COLOR]" radio="false",CGTN Document
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="News;World" radio="false",test
 https://kodibd.github.io/button/test/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="News;World" radio="false",test
