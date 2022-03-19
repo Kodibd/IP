@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=""
-#EXTINF:-1 tvg-name="NHK World"
-#EXTINF:-1 tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png"
-#EXTINF:-1 group-title="News;World;   [COLOR red]JP[/COLOR]"
+#EXTINF:-1 tvg-id=""    
+#EXTINF:-1 tvg-name="NHK World"   
+#EXTINF:-1 tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png"   
+#EXTINF:-1 group-title="News;World;   [COLOR red]JP[/COLOR]"    
 #EXTINF:-1 radio="false",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
 #EXTINF:-1 tvg-id=""
