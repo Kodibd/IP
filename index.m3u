@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:0,*********************** News ***********************
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV News 24" tvg-logo="https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NTV News 24
@@ -13,6 +14,7 @@ https://kodibd.github.io/IP/news/UK_Bloomberg/buk.m3u8
 https://kodibd.github.io/IP/news/US_Bloomberg/bus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/IP/news/US_CBSNews/cbsn.png" group-title="News;   [COLOR red]US[/COLOR]" radio="false",CBS News
 https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
+#EXTINF:0,*********************** Music ***********************
 #EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://kodibd.github.io/IP/music/power/powertv.png" group-title="Music" radio="false",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Power TV Love" tvg-logo="https://kodibd.github.io/IP/music/power/powerlove.png" group-title="Music" radio="false",Power TV Love
