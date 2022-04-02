@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,*********************** News ***********************
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="../IP/news/JP_NHKW/nhkw.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV News 24" tvg-logo="https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NTV News 24
 https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.m3u8
@@ -14,15 +14,17 @@ https://kodibd.github.io/IP/news/UK_Bloomberg/buk.m3u8
 https://kodibd.github.io/IP/news/US_Bloomberg/bus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/IP/news/US_CBSNews/cbsn.png" group-title="News;   [COLOR red]US[/COLOR]" radio="false",CBS News
 https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
-#EXTINF:0,*********************** Music ***********************
-#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://kodibd.github.io/IP/music/power/powertv.png" group-title="Music" radio="false",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Power TV Love" tvg-logo="https://kodibd.github.io/IP/music/power/powerlove.png" group-title="Music" radio="false",Power TV Love
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Power TV Dance" tvg-logo="https://kodibd.github.io/IP/music/power/powerdance.png" group-title="Music" radio="false",Power TV Dance
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DeeJay TV" tvg-logo="https://kodibd.github.io/IP/music/deejay/deejay.png" group-title="Music" radio="false",DeeJay TV
-https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Englis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Englis
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_francais.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN French
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Russian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_russkij.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Russian
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Espanol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_espanol.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Espanol
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Nature;   [COLOR red]CN[/COLOR]" radio="false",CGTN Document
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rtv_noord_nl_tv.png" group-title="Netherlands;   [COLOR red]NL[/COLOR]" radio="false",RTV
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
@@ -46,7 +48,6 @@ https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="" group-title="Nature" radio="false",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=ffdab7722945152444140f32c79b717b
-
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trt2.jpg" group-title="TRT" radio="false",TRT2
 https://kodibd.github.io/IP/tr/trt/trt2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Belgesel" tvg-logo="" group-title="Nature" radio="false",TRT Belgesel
@@ -55,10 +56,24 @@ https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 http://www.deadlyblogger.com/NewRelease/xmen1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XMen2" tvg-logo="" group-title="Movie" radio="false",XMen2
 http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+
+#EXTINF:0,*********************** Music ***********************
+#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://kodibd.github.io/IP/music/power/powertv.png" group-title="Music" radio="false",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV Love" tvg-logo="https://kodibd.github.io/IP/music/power/powerlove.png" group-title="Music" radio="false",Power TV Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV Dance" tvg-logo="https://kodibd.github.io/IP/music/power/powerdance.png" group-title="Music" radio="false",Power TV Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DeeJay TV" tvg-logo="https://kodibd.github.io/IP/music/deejay/deejay.png" group-title="Music" radio="false",DeeJay TV
+https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:0,*********************** Radio ***********************
 #EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
 https://radio-trtturku.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Nağme" tvg-logo="" group-title="TRT" radio="true",TRT Nağme
 https://radio-trtnagme.live.trt.com.tr/master.m3u8
+
+#EXTINF:0,*********************** UniversityRadio ***********************
 #EXTINF:-1 tvg-id="" tvg-name="Ankara Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Ankara Universite
 http://radyo.cc.ankara.edu.tr:8089/;stream/1
 #EXTINF:-1 tvg-id="" tvg-name="Radyo Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Radyo Universite
@@ -67,6 +82,12 @@ http://radyo.cu.edu.tr/Stream1?type=http
 http://radyo.cu.edu.tr/Stream1
 #EXTINF:-1 tvg-id="" tvg-name="Radyo ODTÜ" tvg-logo="" group-title="UniversityRadio" radio="true",Radyo ODTÜ
 http://stream.radyoodtu.com.tr:8006/
+#EXTINF:-1 tvg-id="" tvg-name="ITU Radio Rock" tvg-logo="" group-title="UniversityRadio" radio="true",ITU Radio Rock
+http://160.75.86.29:8088
+#EXTINF:-1 tvg-id="" tvg-name="ITU Radio Jazz/Blues" tvg-logo="" group-title="UniversityRadio" radio="true",ITU Radio Jazz/Blues
+http://160.75.86.29:8090
+#EXTINF:-1 tvg-id="" tvg-name="ITU Radio Classical" tvg-logo="" group-title="UniversityRadio" radio="true",ITU Radio Classical
+http://160.75.86.29:8097
 #EXTINF:-1 tvg-id="" tvg-name="Açık Radyo" tvg-logo="" group-title="Agenda" radio="true",Açık Radyo
 https://stream.34bit.net/ar.opus
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="News" radio="true",Bloomberg
@@ -74,17 +95,9 @@ https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kosmos FM GR" tvg-logo="https://www.lyngsat-logo.com/logo/radio/ee/ert_gr_radio_4.png" group-title="Greece" radio="true",Kosmos FM GR
 https://radiostreaming.ert.gr/ert-kosmos
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Englis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Englis
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_francais.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN French
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Russian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_russkij.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Russian
-https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Espanol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_espanol.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Espanol
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Nature;   [COLOR red]CN[/COLOR]" radio="false",CGTN Document
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="News;World" radio="false",test
 https://kodibd.github.io/button/test/index.m3u8
@@ -100,23 +113,23 @@ https://kodibd.github.io/button/Eiga/Eiga2.m3u8
 
 #EXTINF:-1,TRT2
 https://trtcanlitv-lh.akamaihd.net/i/TRT2_1@107981/master.m3u8
+
 #EXTINF:-1,Çiftçi TV
 https://59cba4d34b678.streamlock.net/canlitv/ciftcitv/playlist.m3u8?hash=6152bd85be72d006723bf31998f1ac36
+
 #EXTINF:-1,Yaban TV 
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=6152bd85be72d006723bf31998f1ac36
+
 #EXTINF:-1,Haber Sputnik_Tur
 https://nfw.ria.ru/flv/audio.aspx?ID=98318704&amp;type=mp3 
+
 #EXTINF:-1,Haber Sputnik_Eng
 https://nfw.ria.ru/flv/audio.aspx?ID=75651129&type=mp3
+
 #EXTINF:-1,FG House Chic
 http://radiofg.impek.com/fgc64.aac
 #EXTINF:-1,FG Radio 93,7
 http://37.1.144.106:9001/;stream/1
 #EXTINF:-1,FG Undrgrnd
 http://radiofg.impek.com/ufg.mp3
-#EXTINF:-1,ITU Radio Rock
-http://160.75.86.29:8088
-#EXTINF:-1,Üniversite ITU Radio Jazz/Blues
-http://160.75.86.29:8090
-#EXTINF:-1,Üniversite ITU Radio Classical
-http://160.75.86.29:8097
+
