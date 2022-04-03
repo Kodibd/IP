@@ -55,6 +55,9 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İBB TV1" tvg-logo="https://kodibd.github.io/IP/Council/ibbtv.png" group-title="Council" radio="false",İBB TV1
 https://kodibd.github.io/IP/Council/ibb.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Bodrum Bel" tvg-logo="https://kodibd.github.io/IP/Council/bb.png" group-title="Council" radio="false",Bodrum BEL
+https://kodibd.github.io/IP/Council/bb.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="İBB TV1" tvg-logo="https://kodibd.github.io/IP/Council/ibbtv.png" group-title="Council" radio="false",İBB TV1
 https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
 
