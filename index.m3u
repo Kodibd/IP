@@ -20,7 +20,7 @@ https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
 https://kodibd.github.io/IP/sports/redbull.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://kodibd.github.io/IP/sports/.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",Fox Sports
 https://kodibd.github.io/IP/sports/foxsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="https://kodibd.github.io/IP/sports/.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",GS TV
+#EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="https://kodibd.github.io/IP/sports/gstv.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",GS TV
 https://kodibd.github.io/IP/sports/gstv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Englis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Englis
