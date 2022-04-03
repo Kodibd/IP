@@ -22,6 +22,8 @@ https://kodibd.github.io/IP/sports/redbull.m3u8
 https://kodibd.github.io/IP/sports/foxsports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports Grid" tvg-logo="https://kodibd.github.io/IP/sports/sportsgrid.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",Sports Grid
 https://kodibd.github.io/IP/sports/sportsgrid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FB TV" tvg-logo="https://kodibd.github.io/IP/sports/fbtv.png" group-title="Sports;   [COLOR red]TR[/COLOR]" radio="false",FB TV
+https://kodibd.github.io/IP/sports/fbtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="https://kodibd.github.io/IP/sports/gstv.png" group-title="Sports;   [COLOR red]TR[/COLOR]" radio="false",GS TV
 https://kodibd.github.io/IP/sports/gstv.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor.png" group-title="Sports;TRT   [COLOR red]TR[/COLOR]" radio="false",TRT SPOR
