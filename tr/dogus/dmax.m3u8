@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:http-caching=1200
+#EXTINF:0,D-Max
+https://kodibd.github.io/button/30a/dmax.m3u8
