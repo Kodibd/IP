@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4994846,CODECS="avc1.77.41,mp4a.40.2",RESOLUTION=1920x1080
+https://livestream.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
