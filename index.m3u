@@ -18,8 +18,10 @@ https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
 #EXTINF:0,*********************** Sports ***********************
 #EXTINF:-1 tvg-id="" tvg-name="RedBull" tvg-logo="https://kodibd.github.io/IP/sports/rb.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",RedBull
 https://kodibd.github.io/IP/sports/redbull.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://kodibd.github.io/IP/sports/fox_sports_au.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",Fox Sports
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://kodibd.github.io/IP/sports/fox_sports_au.png" group-title="Sports;   [COLOR red]AU[/COLOR]" radio="false",Fox Sports
 https://kodibd.github.io/IP/sports/foxsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports Grid" tvg-logo="https://kodibd.github.io/IP/sports/sportsgrid.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",Sports Grid
+https://kodibd.github.io/IP/sports/sportsgrid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="https://kodibd.github.io/IP/sports/gstv.png" group-title="Sports;   [COLOR red]TR[/COLOR]" radio="false",GS TV
 https://kodibd.github.io/IP/sports/gstv.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor.png" group-title="Sports;TRT   [COLOR red]TR[/COLOR]" radio="false",TRT SPOR
