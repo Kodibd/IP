@@ -99,6 +99,8 @@ http://www.deadlyblogger.com/NewRelease/xmen1.mp4
 http://www.deadlyblogger.com/NewRelease/xmen2.mp4
 
 #EXTINF:0,*********************** Music ***********************
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://kodibd.github.io/IP/music/power/mtv.png" group-title="Music" radio="false",MTV
+https://kodibd.github.io/IP/music/mtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://kodibd.github.io/IP/music/power/powertv.png" group-title="Music" radio="false",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Power TV Love" tvg-logo="https://kodibd.github.io/IP/music/power/powerlove.png" group-title="Music" radio="false",Power TV Love
