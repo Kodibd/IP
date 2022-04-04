@@ -37,6 +37,11 @@ https://kodibd.github.io/IP/tr/trt/trtspor2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="https://kodibd.github.io/IP/sports/tjktv.png" group-title="Sports;   [COLOR red]TR[/COLOR]" radio="false",TJK TV
 https://kodibd.github.io/IP/sports/tjktv.m3u8
 
+#EXTINF:0,*********************** Fashion ***********************
+#EXTINF:-1 tvg-id="" tvg-name="Secrets" tvg-logo="https://kodibd.github.io/IP/fashion/secrets.png" group-title="fashion" radio="false",Secrets
+https://kodibd.github.io/IP/fashion/secrets.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Englis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Englis
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
