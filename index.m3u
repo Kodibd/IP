@@ -147,11 +147,79 @@ https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 https://radiostreaming.ert.gr/ert-kosmos
 
 #EXTINF:0,*********************** Jazz Radio ***********************
-#EXTINF:-1 tvg-id="" tvg-name="JazzSoul" tvg-logo="https://kodibd.github.io/IP/radio/J/J1.png" group-title="Jazz Radio" radio="true",JazzSoul
-https://kodibd.github.io/IP/radio/J/1.pls
+#EXTINF:-1 tvg-id="" tvg-name="JazzSoul" tvg-logo="https://kodibd.github.io/lo/r/jazzradio.png" group-title="Jazz Radio" radio="true",JazzSoul
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac?i=53767
+#EXTINF:-1 tvg-id="30920" tvg-name="Blues" tvg-logo="https://kodibd.github.io/lo/r/blues.png" group-title="Jazz Radio" radio="true",Blues
+https://jazzblues.ice.infomaniak.ch/jazzblues-high.aac?i=30920
+#EXTINF:-1 tvg-id="" tvg-name="Lounge" tvg-logo="https://kodibd.github.io/lo/r/lounge.png" group-title="Jazz Radio" radio="true",Lounge
+https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac?i=17719
+#EXTINF:-1 tvg-id="" tvg-name="Only Women" tvg-logo="https://kodibd.github.io/lo/r/only-women.png" group-title="Jazz Radio" radio="true",Only Women
+https://jazz-wr16.ice.infomaniak.ch/jazz-wr16-64.aac?i=29306
+#EXTINF:-1 tvg-id="" tvg-name="SLY Johnson" tvg-logo="https://kodibd.github.io/lo/r/slyjohnson.png" group-title="Jazz Radio" radio="true",SLY Johnson
+https://jazz-thema.ice.infomaniak.ch/jazz-thema.aac?i=30481
+#EXTINF:-1 tvg-id="" tvg-name="Valentine's Day" tvg-logo="https://kodibd.github.io/lo/r/valentines-day.png" group-title="Jazz Radio" radio="true",Valentine's Day
+https://jzr-events-01.ice.infomaniak.ch/jzr-events-01.mp3?i=11055
+#EXTINF:-1 tvg-id="" tvg-name="Nouveautés Soul" tvg-logo="https://kodibd.github.io/lo/r/nouveautes-soul.png" group-title="Jazz Radio" radio="true",Nouveautés Soul
+https://jzr-wr19.ice.infomaniak.ch/jzr-wr19-64.aac?i=39282
+#EXTINF:-1 tvg-id="" tvg-name="Funk" tvg-logo="https://kodibd.github.io/lo/r/funk.png" group-title="Jazz Radio" radio="true",Funk
+https://jazz-wr06.ice.infomaniak.ch/jazz-wr06-64.aac?i=60458
+#EXTINF:-1 tvg-id="" tvg-name="Electro Swing" tvg-logo="https://kodibd.github.io/lo/r/electro-swing.png" group-title="Jazz Radio" radio="true",Electro Swing
+https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=30009
+#EXTINF:-1 tvg-id="" tvg-name="Zen Attitude" tvg-logo="https://kodibd.github.io/lo/r/zen-attitude.png" group-title="Jazz Radio" radio="true",Zen Attitude
+https://zen-attitude.ice.infomaniak.ch/zen-attitude.aac?i=67202
+#EXTINF:-1 tvg-id="" tvg-name="Soul" tvg-logo="https://kodibd.github.io/lo/r/soul.png" group-title="Jazz Radio" radio="true",Soul
+https://jazz-wr10.ice.infomaniak.ch/jazz-wr10-64.aac?i=68067
+#EXTINF:-1 tvg-id="" tvg-name="Piano" tvg-logo="https://kodibd.github.io/lo/r/piano-jazz2.png" group-title="Jazz Radio" radio="true",Piano
+https://jzr-piano.ice.infomaniak.ch/jzr-piano.aac?i=16540
+#EXTINF:-1 tvg-id="" tvg-name="Stax AND Motown" tvg-logo="https://kodibd.github.io/lo/r/stax-and-motown.png" group-title="Jazz Radio" radio="true",Stax AND Motown
+https://jazz-wr15.ice.infomaniak.ch/jazz-wr15-64.aac?i=31897
+#EXTINF:-1 tvg-id="" tvg-name="Manouche" tvg-logo="https://kodibd.github.io/lo/r/manouche.png" group-title="Jazz Radio" radio="true",Manouche
+https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-64.aac?i=72630
+#EXTINF:-1 tvg-id="" tvg-name="Nouveautés" tvg-logo="https://kodibd.github.io/lo/r/nouveautes.png" group-title="Jazz Radio" radio="true",Nouveautés
+https://jzr-wr99.ice.infomaniak.ch/jzr-wr99.aac?i=78265
+#EXTINF:-1 tvg-id="" tvg-name="Black Music" tvg-logo="https://kodibd.github.io/lo/r/black.png" group-title="Jazz Radio" radio="true",Black Music
+https://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.aac?i=13354
+#EXTINF:-1 tvg-id="" tvg-name="Classic" tvg-logo="https://kodibd.github.io/lo/r/classic.png" group-title="Jazz Radio" radio="true",Classic
+https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-64.aac?i=45564
+#EXTINF:-1 tvg-id="" tvg-name="Groove" tvg-logo="https://kodibd.github.io/lo/r/groove.png" group-title="Jazz Radio" radio="true",Groove
+https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-64.aac?i=98252
+#EXTINF:-1 tvg-id="" tvg-name="Gospel" tvg-logo="https://kodibd.github.io/lo/r/gospel.png" group-title="Jazz Radio" radio="true",Gospel
+https://jazz-wr07.ice.infomaniak.ch/jazz-wr07-64.aac?i=80913
+#EXTINF:-1 tvg-id="" tvg-name="French" tvg-logo="https://kodibd.github.io/lo/r/french.png" group-title="Jazz Radio" radio="true",French
+https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-64.aac?i=73640
+#EXTINF:-1 tvg-id="" tvg-name="Classique" tvg-logo="https://kodibd.github.io/lo/r/classique.png" group-title="Jazz Radio" radio="true",Classique
+https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-64.aac?i=21765
+#EXTINF:-1 tvg-id="" tvg-name="Jazz & Cinema" tvg-logo="https://kodibd.github.io/lo/r/cinema.png" group-title="Jazz Radio" radio="true",Jazz & Cinema
+https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.aac?i=58976
+#EXTINF:-1 tvg-id="" tvg-name="Ladies & Crooners" tvg-logo="https://kodibd.github.io/lo/r/ladies-crooners.png" group-title="Jazz Radio" radio="true",Ladies & Crooners
+https://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.aac?i=43794
+#EXTINF:-1 tvg-id="" tvg-name="Reprises" tvg-logo="https://kodibd.github.io/lo/r/reprises.png" group-title="Jazz Radio" radio="true",Reprises
+https://reprises.ice.infomaniak.ch/reprises-high.aac?i=71022
+#EXTINF:-1 tvg-id="" tvg-name="Contemporary" tvg-logo="https://kodibd.github.io/lo/r/contemporary.png" group-title="Jazz Radio" radio="true",Contemporary
+https://jazz-wr05.ice.infomaniak.ch/jazz-wr05-64.aac?i=61969
+#EXTINF:-1 tvg-id="" tvg-name="New Orleans" tvg-logo="https://kodibd.github.io/lo/r/new-orleans.png" group-title="Jazz Radio" radio="true",New Orleans
+https://jazz-wr03.ice.infomaniak.ch/jazz-wr03-64.aac?i=71810
+#EXTINF:-1 tvg-id="" tvg-name="Soul Food" tvg-logo="https://kodibd.github.io/lo/r/soulfood.png" group-title="Jazz Radio" radio="true",Soul Food
+https://jazz-wr12.ice.infomaniak.ch/jazz-wr12-64.aac?i=76463
+#EXTINF:-1 tvg-id="" tvg-name="Latin" tvg-logo="https://kodibd.github.io/lo/r/latin.png" group-title="Jazz Radio" radio="true",Latin
+https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-64.aac?i=14642
+#EXTINF:-1 tvg-id="" tvg-name="Happy Hour" tvg-logo="https://kodibd.github.io/lo/r/happy-hour.png" group-title="Jazz Radio" radio="true",Happy Hour
+https://jazz-wr14.ice.infomaniak.ch/jazz-wr14-64.aac?i=22961
+#EXTINF:-1 tvg-id="" tvg-name="Groov'up" tvg-logo="https://kodibd.github.io/lo/r/groovup.png" group-title="Jazz Radio" radio="true",Groov'up
+https://jazz-wr13.ice.infomaniak.ch/jazz-wr13-64.aac?i=25598
+#EXTINF:-1 tvg-id="" tvg-name="Jazz Fusion" tvg-logo="https://kodibd.github.io/lo/r/fusion.png" group-title="Jazz Radio" radio="true",Jazz Fusion
+https://jazz-radio-fusion.ice.infomaniak.ch/jazz-radio-fusion.aac?i=72780
+#EXTINF:-1 tvg-id="" tvg-name="Afro Jazz" tvg-logo="https://kodibd.github.io/lo/r/afro.png" group-title="Jazz Radio" radio="true",Afro Jazz
+https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.aac?i=89856
+#EXTINF:-1 tvg-id="" tvg-name="Saxo Jazz" tvg-logo="https://kodibd.github.io/lo/r/saxo-jazz1.png" group-title="Jazz Radio" radio="true",Saxo Jazz
+https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.aac?i=27871
 
-#EXTINF:-1 tvg-id="" tvg-name="JazzSoul" tvg-logo="https://kodibd.github.io/IP/radio/J/J1.png" group-title="Jazz Radio" radio="true",JazzSoul
-https://kodibd.github.io/button/30a/listen.pls
+
+
+
+#EXTINF:0,***********************  ***********************
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="News;World" radio="false",test
 https://kodibd.github.io/button/test/index.m3u8
