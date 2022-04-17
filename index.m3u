@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,*********************** TV Channels ***********************
-#EXTINF:-1 tvg-id="" tvg-name="TV Channels" tvg-logo="" group-title="TV Channels" radio="false",     [COLOR yellov]          TV Channels[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TV Channels" tvg-logo="" group-title="TV Channels" radio="false",     [COLOR yellow]TV Channels[/COLOR]
 https://
 #EXTINF:-1 tvg-id="" tvg-name="Cahble Hits" tvg-logo="https://kodibd.github.io/IP/tvch/cablehits" group-title="TV Channels;   [COLOR red]US[/COLOR]" radio="false",Cable Hits
 https://kodibd.github.io/IP/tvch/cablehits.m3u8
