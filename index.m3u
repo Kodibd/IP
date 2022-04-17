@@ -16,6 +16,8 @@ https://kodibd.github.io/IP/news/UK_Bloomberg/buk.m3u8
 https://kodibd.github.io/IP/news/US_Bloomberg/bus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/IP/news/US_CBSNews/cbsn.png" group-title="News;   [COLOR red]US[/COLOR]" radio="false",CBS News
 https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Philippines" tvg-logo="https://kodibd.github.io/IP/news/cnnp/cnnp.jpg" group-title="News;   [COLOR red]US[/COLOR]" radio="false",CNN Philippines
+https://kodibd.github.io/IP/news/cnnp/playlist.m3u8
 
 #EXTINF:0,*********************** Sports ***********************
 #EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports" radio="false",     [COLOR green]          Sports[/COLOR]
