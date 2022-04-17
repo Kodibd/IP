@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,*********************** News ***********************
-#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="https://st.depositphotos.com/1842549/2403/v/600/depositphotos_24031475-stock-illustration-news-icon.jpg" group-title="News" radio="false",     [COLOR red]          News[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="" group-title="News" radio="false",     [COLOR red]          News[/COLOR]
 https://
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
@@ -42,6 +42,8 @@ https://kodibd.github.io/IP/tr/trt/trtspor2.m3u8
 https://kodibd.github.io/IP/sports/tjktv.m3u8
 
 #EXTINF:0,*********************** Fashion ***********************
+#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="" group-title="Fashion" radio="false",     [COLOR blue]          Fashion[/COLOR]
+https://
 #EXTINF:-1 tvg-id="" tvg-name="Secrets" tvg-logo="https://kodibd.github.io/IP/fashion/secrets.png" group-title="fashion" radio="false",Secrets
 https://kodibd.github.io/IP/fashion/secrets.m3u8
 
