@@ -148,7 +148,7 @@ https://radiostreaming.ert.gr/ert-kosmos
 
 #EXTINF:0,*********************** Jazz Radio ***********************
 #EXTINF:-1 tvg-id="" tvg-name="JazzSoul" tvg-logo="https://kodibd.github.io/IP/radio/J/J1.png" group-title="Jazz Radio" radio="true",JazzSoul
-https://kodibd.github.io/IP/radio/J/JazzSoul.m3u
+https://kodibd.github.io/IP/radio/J/1.pls
 
 #EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="News;World" radio="false",test
 https://kodibd.github.io/button/test/index.m3u8
