@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4886817,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://streaming.cnnphilippines.com/live/myStream/chunklist_w1666194580.m3u8
