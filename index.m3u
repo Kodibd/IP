@@ -30,7 +30,7 @@ https://kodibd.github.io/IP/sports/foxsports.m3u8
 https://kodibd.github.io/IP/sports/sportsgrid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://kodibd.github.io/IP/sports/edgesport.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",Edge Sport
 https://kodibd.github.io/IP/sports/edgesport.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",Stadium
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://kodibd.github.io/IP/sports/stadium.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",Stadium
 https://kodibd.github.io/IP/sports/stadium.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports TV" tvg-logo="https://kodibd.github.io/IP/sports/sportstv.png" group-title="Sports;   [COLOR red]TR[/COLOR]" radio="false",Sports TV
 https://kodibd.github.io/IP/sports/sportstv.m3u8
