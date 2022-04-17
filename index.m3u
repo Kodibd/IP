@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,*********************** News ***********************
-#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports" radio="false",     [COLOR red]          News[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="https://st.depositphotos.com/1842549/2403/v/600/depositphotos_24031475-stock-illustration-news-icon.jpg" group-title="News" radio="false",     [COLOR red]          News[/COLOR]
 https://
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
