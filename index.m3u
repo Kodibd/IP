@@ -47,6 +47,26 @@ https://
 #EXTINF:-1 tvg-id="" tvg-name="Secrets" tvg-logo="https://kodibd.github.io/IP/fashion/secrets.png" group-title="fashion" radio="false",Secrets
 https://kodibd.github.io/IP/fashion/secrets.m3u8
 
+#EXTINF:0,*********************** Music ***********************
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music" radio="false",     [COLOR orenge]          Music[/COLOR]
+https://
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://kodibd.github.io/IP/music/mtv.png" group-title="Music" radio="false",MTV
+https://kodibd.github.io/IP/music/mtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH 1" tvg-logo="https://kodibd.github.io/IP/music/vh1.png" group-title="Music" radio="false",VH 1
+https://kodibd.github.io/IP/music/vh1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://kodibd.github.io/IP/music/power/powertv.png" group-title="Music" radio="false",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV Love" tvg-logo="https://kodibd.github.io/IP/music/power/powerlove.png" group-title="Music" radio="false",Power TV Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power TV Dance" tvg-logo="https://kodibd.github.io/IP/music/power/powerdance.png" group-title="Music" radio="false",Power TV Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DeeJay TV" tvg-logo="https://kodibd.github.io/IP/music/deejay/deejay.png" group-title="Music" radio="false",DeeJay TV
+https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" group-title="Turkey;Music" radio="false",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Englis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Englis
@@ -92,8 +112,7 @@ http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" group-title="Turkey;Music" radio="false",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="" group-title="Nature" radio="false",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=ffdab7722945152444140f32c79b717b
 
@@ -109,20 +128,7 @@ http://www.deadlyblogger.com/NewRelease/xmen1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XMen2" tvg-logo="" group-title="Movie" radio="false",XMen2
 http://www.deadlyblogger.com/NewRelease/xmen2.mp4
 
-#EXTINF:0,*********************** Music ***********************
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://kodibd.github.io/IP/music/mtv.png" group-title="Music" radio="false",MTV
-https://kodibd.github.io/IP/music/mtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VH 1" tvg-logo="https://kodibd.github.io/IP/music/vh1.png" group-title="Music" radio="false",VH 1
-https://kodibd.github.io/IP/music/vh1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://kodibd.github.io/IP/music/power/powertv.png" group-title="Music" radio="false",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Power TV Love" tvg-logo="https://kodibd.github.io/IP/music/power/powerlove.png" group-title="Music" radio="false",Power TV Love
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Power TV Dance" tvg-logo="https://kodibd.github.io/IP/music/power/powerdance.png" group-title="Music" radio="false",Power TV Dance
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DeeJay TV" tvg-logo="https://kodibd.github.io/IP/music/deejay/deejay.png" group-title="Music" radio="false",DeeJay TV
-https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 
 #EXTINF:0,*********************** Radio ***********************
 #EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
