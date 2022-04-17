@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:http-caching=1200
+#EXTINF:0,Jazz & Soul
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac?i=53767
