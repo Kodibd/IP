@@ -16,7 +16,7 @@ https://kodibd.github.io/IP/news/US_Bloomberg/bus.m3u8
 https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
 
 #EXTINF:0,*********************** Sports ***********************
-#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports" radio="false",[COLOR red]Sports[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports" radio="false",     [COLOR red]Sports[/COLOR]
 https://
 #EXTINF:-1 tvg-id="" tvg-name="RedBull" tvg-logo="https://kodibd.github.io/IP/sports/rb.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",RedBull
 https://kodibd.github.io/IP/sports/redbull.m3u8
