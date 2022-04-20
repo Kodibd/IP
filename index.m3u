@@ -254,8 +254,7 @@ https://kodibd.github.io/button/test/index.m3u
 https://kodibd.github.io/button/Eiga/Eiga1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/button/Eiga/Eiga2.jpg" group-title="Eiga",Eiga
 https://kodibd.github.io/button/Eiga/Eiga2.m3u8
-#EXTINF:-1 tvg-id="tt0268380" tvg-name="X1" tvg-logo="" group-title="Movie" radio="false",X1
-https://555ip.github.io/Eiga/x1.m3u8
+
 
 
 #EXTINF:-1,TRT2
