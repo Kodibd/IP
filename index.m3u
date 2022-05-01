@@ -10,7 +10,12 @@ https://kodibd.github.io/IP/tr/yol.m3u
 
 #EXTINF:0,*********************** News ***********************
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="" group-title="News" radio="false",     [COLOR red]          News[/COLOR]
-https://
+#EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW Deutsch
+https://kodibd.github.io/IP/news/dw/de.m3u8
+#EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW English 
+https://kodibd.github.io/IP/news/dw/uk.m3u8
+#EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW Espanol
+https://kodibd.github.io/IP/news/dw/es.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV News 24" tvg-logo="https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NTV News 24
