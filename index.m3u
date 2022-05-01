@@ -5,8 +5,11 @@ https://
 #EXTINF:-1 tvg-id="" tvg-name="Cahble Hits" tvg-logo="https://kodibd.github.io/IP/tvch/cablehits" group-title="TV Channels;   [COLOR red]US[/COLOR]" radio="false",Cable Hits
 https://kodibd.github.io/IP/tvch/cablehits.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="https://yoltv.com/wp-content/uploads/2020/04/yol-logo-updated2.webp" group-title="TV Channels;   [COLOR red]TR[/COLOR]" radio="false",YOL TV
+#EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="https://yoltv.com/wp-content/uploads/2020/04/yol-logo-updated2.webp" group-title="TV Channels radio="false",YOL TV
 https://kodibd.github.io/IP/tr/yol.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Channels radio="false",Halk TV
+https://kodibd.github.io/IP/tr/halktv.m3u
 
 #EXTINF:0,*********************** News ***********************
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="" group-title="News" radio="false",     [COLOR red]          News[/COLOR]
