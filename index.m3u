@@ -33,9 +33,9 @@ https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
 #EXTINF:-1 tvg-id="CNNPhilippines.us" tvg-name="CNN Philippines" tvg-country="PH" tvg-language="English" tvg-logo="https://kodibd.github.io/IP/news/cnnp/cnnp.jpg" group-title="News;   [COLOR red]US[/COLOR]" radio="false",CNN Philippines
 https://kodibd.github.io/IP/news/cnnp/playlist.m3u8
 
-#EXTINF:0,*********************** Sports ***********************
-#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports" radio="false",     [COLOR green]          Sports[/COLOR]
-https://
+
+#EXTINF:-1 tvg-id="" tvg-name="ACC Network" tvg-logo="" group-title="Sports" radio="false",ACC Network
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RedBull" tvg-logo="https://kodibd.github.io/IP/sports/rb.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",RedBull
 https://kodibd.github.io/IP/sports/redbull.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://kodibd.github.io/IP/sports/fox_sports_au.png" group-title="Sports;   [COLOR red]AU[/COLOR]" radio="false",Fox Sports
