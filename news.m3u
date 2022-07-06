@@ -8,7 +8,7 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=ffdab77229
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="English" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
 #EXTINF:-1 tvg-id="OneGolf.pk" tvg-country="PK" tvg-language="English" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="Sports",nhk (720p)
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV News 24" tvg-logo="https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.png" group-title="News" , NTV News 24
 https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://kodibd.github.io/IP/news/TR_BloombergHT/bht.png" group-title="News" , Bloomberg HT
