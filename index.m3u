@@ -8,7 +8,7 @@ https://kodibd.github.io/IP/tr/yol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="" group-title="TV Channels radio="false",Halk TV
 https://kodibd.github.io/IP/tr/halktv.m3u8
 
-#EXTINF:0,*********************** News ***********************
+
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="" group-title="News" radio="false",     [COLOR red]          News[/COLOR]
 #EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW Deutsch
 https://kodibd.github.io/IP/news/dw/de.m3u8
@@ -57,15 +57,13 @@ https://kodibd.github.io/IP/tr/trt/trtspor2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="https://kodibd.github.io/IP/sports/tjktv.png" group-title="Sports;   [COLOR red]TR[/COLOR]" radio="false",TJK TV
 https://kodibd.github.io/IP/sports/tjktv.m3u8
 
-#EXTINF:0,*********************** Fashion ***********************
-#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="" group-title="Fashion" radio="false",     [COLOR blue]          Fashion[/COLOR]
-https://
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Secrets" tvg-logo="https://kodibd.github.io/IP/fashion/secrets.png" group-title="fashion" radio="false",Secrets
 https://kodibd.github.io/IP/fashion/secrets.m3u8
 
-#EXTINF:0,*********************** Music ***********************
-#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music" radio="false",     [COLOR orange]          Music[/COLOR]
-https://
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://kodibd.github.io/IP/music/mtv.png" group-title="Music" radio="false",MTV
 https://kodibd.github.io/IP/music/mtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VH 1" tvg-logo="https://kodibd.github.io/IP/music/vh1.png" group-title="Music" radio="false",VH 1
@@ -109,7 +107,7 @@ https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tivi Türk" tvg-logo="http://onex-media.com/wp-content/uploads/2018/12/32.png" group-title="Turkey" radio="false",tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:0,*********************** Council ***********************
+
 #EXTINF:-1 tvg-id="" tvg-name="İBB TV1" tvg-logo="https://kodibd.github.io/IP/Council/ibbtv.png" group-title="Council" radio="false",İBB TV1
 https://kodibd.github.io/IP/Council/ibb.m3u8
 
@@ -123,7 +121,7 @@ https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
 http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 
 
-#EXTINF:0,*********************** University ***********************
+
 #EXTINF:-1 tvg-id="" tvg-name="Selçuk Universitesi" tvg-logo="" group-title="University TV" radio="false",Selçuk Universitesi
 https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 
@@ -146,13 +144,13 @@ http://www.deadlyblogger.com/NewRelease/xmen2.mp4
 
 
 
-#EXTINF:0,*********************** Radio ***********************
+
 #EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
 https://radio-trtturku.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Nağme" tvg-logo="" group-title="TRT" radio="true",TRT Nağme
 https://radio-trtnagme.live.trt.com.tr/master.m3u8
 
-#EXTINF:0,*********************** UniversityRadio ***********************
+
 #EXTINF:-1 tvg-id="" tvg-name="Ankara Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Ankara Universite
 http://radyo.cc.ankara.edu.tr:8089/;stream/1
 #EXTINF:-1 tvg-id="" tvg-name="Radyo Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Radyo Universite
@@ -174,7 +172,7 @@ https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kosmos FM GR" tvg-logo="https://www.lyngsat-logo.com/logo/radio/ee/ert_gr_radio_4.png" group-title="Greece" radio="true",Kosmos FM GR
 https://radiostreaming.ert.gr/ert-kosmos
 
-#EXTINF:0,*********************** Jazz Radio ***********************
+
 #EXTINF:-1 tvg-id="" tvg-name="JazzSoul" tvg-logo="https://kodibd.github.io/lo/r/jazzradio.png" group-title="Jazz Radio" radio="true",JazzSoul
 https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac?i=53767
 #EXTINF:-1 tvg-id="30920" tvg-name="Blues" tvg-logo="https://kodibd.github.io/lo/r/blues.png" group-title="Jazz Radio" radio="true",Blues
