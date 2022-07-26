@@ -6,8 +6,10 @@ https://www.youtube.com/embed/7PLJNNf_JKc
 #EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="" group-title="TV Channels radio="false",YOL TV
 https://kodibd.github.io/IP/tr/yol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="" group-title="TV Channels radio="false",Halk TV
-https://kodibd.github.io/IP/tr/halktv.m3u8
+https://kodibd.github.io/IP/tvch/ts.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Today's Special" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Today%27s_Special_%282009%29_poster.jpg" group-title="TV Channels radio="false",Today's Special
+https://kodibd.github.io/IP/tr/halktv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="" group-title="News" radio="false",     [COLOR red]          News[/COLOR]
 #EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW Deutsch
