@@ -30,7 +30,7 @@ https://kodibd.github.io/IP/news/UK_Bloomberg/buk.m3u8
 https://kodibd.github.io/IP/news/US_Bloomberg/bus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/IP/news/US_CBSNews/cbsn.png" group-title="News" radio="false",CBS News
 https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
-#EXTINF:-1 tvg-id="CNNPhilippines.us" tvg-name="CNN Philippines" tvg-country="PH" tvg-language="English" tvg-logo="https://kodibd.github.io/IP/news/cnnp/cnnp.jpg" group-title="News" radio="false",CNN Philippines
+#EXTINF:-1 tvg-id="" tvg-name="CNN Philippines"  tvg-logo="https://kodibd.github.io/IP/news/cnnp/cnnp.jpg" group-title="News" radio="false",CNN Philippines
 https://kodibd.github.io/IP/news/cnnp/playlist.m3u8
 
 
