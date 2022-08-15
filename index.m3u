@@ -16,9 +16,9 @@ https://kodibd.github.io/IP/news/dw/uk.m3u8
 #EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW Espanol
 https://kodibd.github.io/IP/news/dw/es.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News;World" radio="false",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News" radio="false",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV News 24" tvg-logo="https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.png" group-title="News;World" radio="false",NTV News 24
+#EXTINF:-1 tvg-id="" tvg-name="NTV News 24" tvg-logo="https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.png" group-title="News" radio="false",NTV News 24
 https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://kodibd.github.io/IP/news/TR_BloombergHT/bht.png" group-title="News" radio="false",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1640041249&st=wb0OhPrnDIJsygZVLJJYEw&tv=1&ce=1
@@ -33,6 +33,7 @@ https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Philippines"  tvg-logo="https://kodibd.github.io/IP/news/cnnp/cnnp.jpg" group-title="News" radio="false",CNN Philippines
 https://kodibd.github.io/IP/news/cnnp/playlist.m3u8
 
+#EXTINF:0,*********************** Sports ***********************
 
 #EXTINF:-1 tvg-id="" tvg-name="ACC Network" tvg-logo="" group-title="Sports" radio="false",ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
@@ -57,7 +58,7 @@ https://kodibd.github.io/IP/tr/trt/trtspor2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="https://kodibd.github.io/IP/sports/tjktv.png" group-title="Sports" radio="false",TJK TV
 https://kodibd.github.io/IP/sports/tjktv.m3u8
 
-
+#EXTINF:0,*********************** Fashion ***********************
 
 #EXTINF:-1 tvg-id="" tvg-name="Secrets" tvg-logo="https://kodibd.github.io/IP/fashion/secrets.png" group-title="fashion" radio="false",Secrets
 https://kodibd.github.io/IP/fashion/secrets.m3u8
@@ -65,7 +66,7 @@ https://kodibd.github.io/IP/fashion/secrets.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Code Fashion" tvg-logo="https://kodibd.github.io/IP/fashion/cf.png" group-title="fashion" radio="false",Code Fashion
 https://kodibd.github.io/IP/fashion/cf.m3u8
 
-
+#EXTINF:0,*********************** Music ***********************
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://kodibd.github.io/IP/music/mtv.png" group-title="Music" radio="false",MTV
 https://kodibd.github.io/IP/music/mtv.m3u8
@@ -81,8 +82,7 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DeeJay TV" tvg-logo="https://kodibd.github.io/IP/music/deejay/deejay.png" group-title="Music" radio="false",DeeJay TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" group-title="Turkey;Music" radio="false",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
 
 
 
@@ -140,13 +140,10 @@ https://kodibd.github.io/IP/tr/trt/trt2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Belgesel" tvg-logo="" group-title="Nature" radio="false",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="XMen1" tvg-logo="" group-title="Movie" radio="false",XMen1
-http://www.deadlyblogger.com/NewRelease/xmen1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XMen2" tvg-logo="" group-title="Movie" radio="false",XMen2
-http://www.deadlyblogger.com/NewRelease/xmen2.mp4
 
 
 
+#EXTINF:0,*********************** Radio ***********************
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
 https://radio-trtturku.live.trt.com.tr/master.m3u8
