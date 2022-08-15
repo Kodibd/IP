@@ -7,55 +7,54 @@ https://kodibd.github.io/IP/tr/yol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk-tv-tr.png" group-title="TV Channels" radio="false",Halk TV
 https://kodibd.github.io/IP/tr/halktv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Today's Special" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Today%27s_Special_%282009%29_poster.jpg" group-title="TV Channels radio="false",Today's Special
-https://kodibd.github.io/IP/tr/halktv.m3u8
+
 
 #EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW Deutsch
 https://kodibd.github.io/IP/news/dw/de.m3u8
-
 #EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW English 
 https://kodibd.github.io/IP/news/dw/uk.m3u8
 #EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW Espanol
 https://kodibd.github.io/IP/news/dw/es.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NHK World
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News;World" radio="false",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV News 24" tvg-logo="https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.png" group-title="News;World;   [COLOR red]JP[/COLOR]" radio="false",NTV News 24
+#EXTINF:-1 tvg-id="" tvg-name="NTV News 24" tvg-logo="https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.png" group-title="News;World" radio="false",NTV News 24
 https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://kodibd.github.io/IP/news/TR_BloombergHT/bht.png" group-title="News;   [COLOR red]TR[/COLOR]" radio="false",Bloomberg HT
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://kodibd.github.io/IP/news/TR_BloombergHT/bht.png" group-title="News" radio="false",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1640041249&st=wb0OhPrnDIJsygZVLJJYEw&tv=1&ce=1
-#EXTINF:-1 tvg-id="" tvg-name="Haber Global" tvg-logo="https://kodibd.github.io/IP/news/TR_HaberGlobal/hg.jpg" group-title="News;   [COLOR red]TR[/COLOR]" radio="false",Haber Global
+#EXTINF:-1 tvg-id="" tvg-name="Haber Global" tvg-logo="https://kodibd.github.io/IP/news/TR_HaberGlobal/hg.jpg" group-title="News" radio="false",Haber Global
 https://kodibd.github.io/IP/news/TR_HaberGlobal/HG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg UK" tvg-logo="https://kodibd.github.io/IP/news/UK_Bloomberg/buk.png" group-title="News;   [COLOR red]UK[/COLOR]" radio="false",Bloomberg UK
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg UK" tvg-logo="https://kodibd.github.io/IP/news/UK_Bloomberg/buk.png" group-title="News" radio="false",Bloomberg UK
 https://kodibd.github.io/IP/news/UK_Bloomberg/buk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg US" tvg-logo="https://kodibd.github.io/IP/news/US_Bloomberg/bus.jpg" group-title="News;   [COLOR red]US[/COLOR]" radio="false",Bloomberg US
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg US" tvg-logo="https://kodibd.github.io/IP/news/US_Bloomberg/bus.jpg" group-title="News" radio="false",Bloomberg US
 https://kodibd.github.io/IP/news/US_Bloomberg/bus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/IP/news/US_CBSNews/cbsn.png" group-title="News;   [COLOR red]US[/COLOR]" radio="false",CBS News
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/IP/news/US_CBSNews/cbsn.png" group-title="News" radio="false",CBS News
 https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
-#EXTINF:-1 tvg-id="CNNPhilippines.us" tvg-name="CNN Philippines" tvg-country="PH" tvg-language="English" tvg-logo="https://kodibd.github.io/IP/news/cnnp/cnnp.jpg" group-title="News;   [COLOR red]US[/COLOR]" radio="false",CNN Philippines
+#EXTINF:-1 tvg-id="CNNPhilippines.us" tvg-name="CNN Philippines" tvg-country="PH" tvg-language="English" tvg-logo="https://kodibd.github.io/IP/news/cnnp/cnnp.jpg" group-title="News" radio="false",CNN Philippines
 https://kodibd.github.io/IP/news/cnnp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ACC Network" tvg-logo="" group-title="Sports" radio="false",ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RedBull" tvg-logo="https://kodibd.github.io/IP/sports/rb.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",RedBull
+#EXTINF:-1 tvg-id="" tvg-name="RedBull" tvg-logo="https://kodibd.github.io/IP/sports/rb.png" group-title="Sports" radio="false",RedBull
 https://kodibd.github.io/IP/sports/redbull.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://kodibd.github.io/IP/sports/fox_sports_au.png" group-title="Sports;   [COLOR red]AU[/COLOR]" radio="false",Fox Sports
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://kodibd.github.io/IP/sports/fox_sports_au.png" group-title="Sports" radio="false",Fox Sports
 https://kodibd.github.io/IP/sports/foxsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports Grid" tvg-logo="https://kodibd.github.io/IP/sports/sportsgrid.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",Sports Grid
+#EXTINF:-1 tvg-id="" tvg-name="Sports Grid" tvg-logo="https://kodibd.github.io/IP/sports/sportsgrid.png" group-title="Sports" radio="false",Sports Grid
 https://kodibd.github.io/IP/sports/sportsgrid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://kodibd.github.io/IP/sports/edgesport.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",Edge Sport
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://kodibd.github.io/IP/sports/edgesport.png" group-title="Sports" radio="false",Edge Sport
 https://kodibd.github.io/IP/sports/edgesport.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://kodibd.github.io/IP/sports/stadium.png" group-title="Sports;   [COLOR red]US[/COLOR]" radio="false",Stadium
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://kodibd.github.io/IP/sports/stadium.png" group-title="Sports" radio="false",Stadium
 https://kodibd.github.io/IP/sports/stadium.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports TV" tvg-logo="https://kodibd.github.io/IP/sports/sportstv.png" group-title="Sports;   [COLOR red]TR[/COLOR]" radio="false",Sports TV
+#EXTINF:-1 tvg-id="" tvg-name="Sports TV" tvg-logo="https://kodibd.github.io/IP/sports/sportstv.png" group-title="Sports" radio="false",Sports TV
 https://kodibd.github.io/IP/sports/sportstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="https://kodibd.github.io/IP/sports/gstv.png" group-title="Sports;   [COLOR red]TR[/COLOR]" radio="false",GS TV
+#EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="https://kodibd.github.io/IP/sports/gstv.png" group-title="Sports" radio="false",GS TV
 https://kodibd.github.io/IP/sports/gstv.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor.png" group-title="Sports;TRT   [COLOR red]TR[/COLOR]" radio="false",TRT SPOR
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor.png" group-title="Sports" radio="false",TRT SPOR
 https://kodibd.github.io/IP/tr/trt/trtspor.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor2.png" group-title="Sports;TRT   [COLOR red]TR[/COLOR]" radio="false",TRT SPOR2
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor2.png" group-title="Sports" radio="false",TRT SPOR2
 https://kodibd.github.io/IP/tr/trt/trtspor2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="https://kodibd.github.io/IP/sports/tjktv.png" group-title="Sports;   [COLOR red]TR[/COLOR]" radio="false",TJK TV
+#EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="https://kodibd.github.io/IP/sports/tjktv.png" group-title="Sports" radio="false",TJK TV
 https://kodibd.github.io/IP/sports/tjktv.m3u8
 
 
@@ -87,24 +86,24 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Englis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Englis
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Englis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="News" radio="false",CGTN Englis
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_francais.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN French
+#EXTINF:-1 tvg-id="" tvg-name="CGTN French" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_francais.png" group-title="News" radio="false",CGTN French
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Russian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_russkij.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Russian
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Russian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_russkij.png" group-title="News" radio="false",CGTN Russian
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Espanol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_espanol.png" group-title="News;World;   [COLOR red]CN[/COLOR]" radio="false",CGTN Espanol
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Espanol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_espanol.png" group-title="News" radio="false",CGTN Espanol
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Nature;   [COLOR red]CN[/COLOR]" radio="false",CGTN Document
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Nature" radio="false",CGTN Document
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rtv_noord_nl_tv.png" group-title="Netherlands;   [COLOR red]NL[/COLOR]" radio="false",RTV
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rtv_noord_nl_tv.png" group-title="Netherlands" radio="false",RTV
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NH TV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/nn/nh-tv-nl.png" group-title="Netherlands" radio="false",NH TV
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NH Radio" tvg-logo="https://www.lyngsat-stream.com/logo/tv/nn/nh-tv-nl.png" group-title="Netherlands;   [COLOR red]NL[/COLOR]" radio="false",NH Radio
+#EXTINF:-1 tvg-id="" tvg-name="NH Radio" tvg-logo="https://www.lyngsat-stream.com/logo/tv/nn/nh-tv-nl.png" group-title="Netherlands" radio="false",NH Radio
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=nhradio&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="L1 TV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/nn/nh-tv-nl.png" group-title="Netherlands;   [COLOR red]NL[/COLOR]" radio="false",L1 TV
+#EXTINF:-1 tvg-id="" tvg-name="L1 TV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/nn/nh-tv-nl.png" group-title="Netherlands" radio="false",L1 TV
 https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUPprdLCjaZuVykvtrEvYXxOd2V32RZWjUmWn_=s900-c-k-c0x00ffffff-no-rj" group-title="Turkey" radio="false",Life TV
 https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
