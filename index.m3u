@@ -1,19 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Cahble Hits" tvg-logo="https://kodibd.github.io/IP/tvch/cablehits" group-title="TV Channels;   [COLOR red]US[/COLOR]" radio="false",Cable Hits
+#EXTINF:-1 tvg-id="" tvg-name="Cahble Hits" tvg-logo="https://kodibd.github.io/IP/tvch/cablehits" group-title="TV Channels "radio="false",Cable Hits
 https://kodibd.github.io/IP/tvch/cablehits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FishAholic Fishing" tvg-logo="" group-title="TV Channels radio="false",FishAholic Fishing
-https://www.youtube.com/embed/7PLJNNf_JKc
-#EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="" group-title="TV Channels radio="false",YOL TV
+
+#EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="" group-title="TV Channels" radio="false",YOL TV
 https://kodibd.github.io/IP/tr/yol.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="" group-title="TV Channels radio="false",Halk TV
+#EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="" group-title="TV Channels" radio="false",Halk TV
 https://kodibd.github.io/IP/tvch/ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Today's Special" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Today%27s_Special_%282009%29_poster.jpg" group-title="TV Channels radio="false",Today's Special
 https://kodibd.github.io/IP/tr/halktv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="" group-title="News" radio="false",     [COLOR red]          News[/COLOR]
 #EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW Deutsch
 https://kodibd.github.io/IP/news/dw/de.m3u8
+
 #EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW English 
 https://kodibd.github.io/IP/news/dw/uk.m3u8
 #EXTINF:-1 tvg-id="DW.com" tvg-logo="https://kodibd.github.io/IP/news/dw/dw.png" group-title="News",DW Espanol
