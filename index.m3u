@@ -69,7 +69,7 @@ https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Power TV Dance" tvg-logo="https://kodibd.github.io/IP/music/power/powerdance.png" group-title="Music" radio="false",Power TV Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DeeJay TV" tvg-logo="https://kodibd.github.io/IP/music/deejay/deejay.png" group-title="Music" radio="false",DeeJay TV
-https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
+https://kodibd.github.io/IP/music/deejay/deejay.m3u8
 
 
 
