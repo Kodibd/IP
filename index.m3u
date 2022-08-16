@@ -82,8 +82,7 @@ https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
 https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://kodibd.github.io/IP/news/TR_BloombergHT/bht.png" group-title="News" radio="false",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1640041249&st=wb0OhPrnDIJsygZVLJJYEw&tv=1&ce=1
-#EXTINF:-1 tvg-id="" tvg-name="Haber Global" tvg-logo="https://kodibd.github.io/IP/news/TR_HaberGlobal/hg.jpg" group-title="News" radio="false",Haber Global
-https://kodibd.github.io/IP/news/TR_HaberGlobal/HG.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg UK" tvg-logo="https://kodibd.github.io/IP/news/UK_Bloomberg/buk.png" group-title="News" radio="false",Bloomberg UK
 https://kodibd.github.io/IP/news/UK_Bloomberg/buk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg US" tvg-logo="https://kodibd.github.io/IP/news/US_Bloomberg/bus.jpg" group-title="News" radio="false",Bloomberg US
