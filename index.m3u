@@ -26,6 +26,8 @@ https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:0,*********************** Sports ***********************
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR live" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor.png" group-title="Sports" radio="false",TRT SPOR live
+https://tv-trtspor1-1.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACC Network" tvg-logo="" group-title="Sports" radio="false",ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
