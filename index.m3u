@@ -53,6 +53,8 @@ https://kodibd.github.io/IP/tr/trt/trtspor2.m3u8
 https://kodibd.github.io/IP/sports/tjktv.m3u8
 
 #EXTINF:0,*********************** Fashion ***********************
+#EXTINF:-1 tvg-id="" tvg-name="Paris" tvg-logo="https://kodibd.github.io/IP/fashion/secrets.png" group-title="fashion" radio="false",Paris
+https://kodibd.github.io/IP/fashion/paris.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Secrets" tvg-logo="https://kodibd.github.io/IP/fashion/secrets.png" group-title="fashion" radio="false",Secrets
 https://kodibd.github.io/IP/fashion/secrets.m3u8
