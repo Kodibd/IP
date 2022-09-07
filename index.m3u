@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,/*TV Channels*/
+#EXTINF:0,
 #EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png" group-title="TV Channels" radio="false",M Türk
 https://kodibd.github.io/IP/tr/mTurk.m3u8
 
@@ -14,7 +14,7 @@ https://kodibd.github.io/IP/tr/halktv.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trt2.jpg" group-title="TRT" radio="false",TRT2
 https://kodibd.github.io/IP/tr/trt/trt2.m3u8
 
-#EXTINF:0,*********************** Nature ***********************
+#EXTINF:0,
 
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="" group-title="Nature" radio="false",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=ffdab7722945152444140f32c79b717b
@@ -25,7 +25,7 @@ https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Nature" radio="false",CGTN Document
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:0,*********************** Sports ***********************
+#EXTINF:0,
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR live" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor.png" group-title="Sports" radio="false",TRT SPOR live
 https://tv-trtspor1-1.live.trt.com.tr/master.m3u8
 
@@ -52,7 +52,7 @@ https://kodibd.github.io/IP/tr/trt/trtspor2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="https://kodibd.github.io/IP/sports/tjktv.png" group-title="Sports" radio="false",TJK TV
 https://kodibd.github.io/IP/sports/tjktv.m3u8
 
-#EXTINF:0,*********************** Fashion ***********************
+#EXTINF:0,
 #EXTINF:-1 tvg-id="" tvg-name="Paris" tvg-logo="https://kodibd.github.io/IP/fashion/secrets.png" group-title="fashion" radio="false",Paris
 https://kodibd.github.io/IP/fashion/paris.m3u8
 
@@ -65,7 +65,7 @@ https://kodibd.github.io/IP/fashion/secrets.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Code Fashion" tvg-logo="https://kodibd.github.io/IP/fashion/cf.png" group-title="fashion" radio="false",Code Fashion
 https://kodibd.github.io/IP/fashion/cf.m3u8
 
-#EXTINF:0,*********************** Music ***********************
+#EXTINF:0,
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://kodibd.github.io/IP/music/mtv.png" group-title="Music" radio="false",MTV
 https://kodibd.github.io/IP/music/mtv.m3u8
@@ -83,7 +83,7 @@ https://kodibd.github.io/IP/music/deejay/deejay.m3u8
 
 
 
-#EXTINF:0,*********************** News ***********************
+#EXTINF:0,
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News" radio="false",NHK World
@@ -147,7 +147,7 @@ https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 
 
 
-#EXTINF:0,*********************** Radio ***********************
+#EXTINF:0,
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
 https://radio-trtturku.live.trt.com.tr/master.m3u8
