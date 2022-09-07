@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=4330392,CODECS="avc1.4d4028,mp4a.40.2"
+https://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/0/profileManifest.m3u8?_uid=608c8acb-24cd-422f-acf5-0fdda3e40394&rK=te
+#EXT-X-STREAM-INF:RESOLUTION=1280x720,BANDWIDTH=2463176,CODECS="avc1.4d401f,mp4a.40.2"
+https://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/1/profileManifest.m3u8?_uid=608c8acb-24cd-422f-acf5-0fdda3e40394&rK=te
+#EXT-X-STREAM-INF:RESOLUTION=854x480,BANDWIDTH=1085136,CODECS="avc1.4d401e,mp4a.40.2"
+https://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/2/profileManifest.m3u8?_uid=608c8acb-24cd-422f-acf5-0fdda3e40394&rK=te
+#EXT-X-STREAM-INF:RESOLUTION=640x360,BANDWIDTH=680936,CODECS="avc1.4d401e,mp4a.40.2"
+https://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/3/profileManifest.m3u8?_uid=608c8acb-24cd-422f-acf5-0fdda3e40394&rK=te
+#EXT-X-STREAM-INF:RESOLUTION=426x240,BANDWIDTH=578288,CODECS="avc1.4d4015,mp4a.40.2"
+https://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/4/profileManifest.m3u8?_uid=608c8acb-24cd-422f-acf5-0fdda3e40394&rK=te
+#EXT-X-STREAM-INF:RESOLUTION=256x144,BANDWIDTH=288768,CODECS="avc1.4d400c,mp4a.40.2"
+https://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/5/profileManifest.m3u8?_uid=608c8acb-24cd-422f-acf5-0fdda3e40394&rK=te
