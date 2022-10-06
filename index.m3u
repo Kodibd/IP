@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="testo" group-title="TV Channels" radio="false",M Türk
-https://kodibd.github.io/button/30a/testo.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png" group-title="TV Channels" radio="false",M Türk
 https://kodibd.github.io/IP/tr/mTurk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cahble Hits" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="TV Channels "radio="false",Cable Hits
