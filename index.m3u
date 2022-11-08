@@ -72,9 +72,10 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DeeJay TV" tvg-logo="https://kodibd.github.io/IP/music/deejay/deejay.png" group-title="Music" radio="false",DeeJay TV
 https://kodibd.github.io/IP/music/deejay/deejay.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Best of Dance TV" tvg-logo="https://kodibd.github.io/IP/music/DanceTV/bdancetv.jpg" group-title="Music" radio="false",Best of Dance TV
+#EXTINF:-1 tvg-id="" tvg-name="Best of Dance TV" tvg-logo="https://kodibd.github.io/logo/bDance.jpg" group-title="Music" radio="false",Best of Dance TV
 https://kodibd.github.io/IP/music/DanceTV/bdancetv.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Melodic Tech" tvg-logo="https://kodibd.github.io/logo/mtDance.jpg" group-title="Music" radio="false",Melodic Tech
+https://kodibd.github.io/IP/music/DanceTV/mtdance.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News" radio="false",NHK World
