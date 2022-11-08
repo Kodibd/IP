@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=5676000,RESOLUTION=1920x1080,CODECS="avc1.640829,mp4a.40.2"
+ttps://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1826000,RESOLUTION=1280x720,CODECS="avc1.640829,mp4a.40.2"
+https://mbit1.worldcast.tv/dancetelevisionnine/stream_1.m3u8
