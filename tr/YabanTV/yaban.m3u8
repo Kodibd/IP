@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2124217,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2124217,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
 https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
