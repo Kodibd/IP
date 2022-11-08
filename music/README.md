@@ -13,7 +13,7 @@
 | <img src="deep-house.jpg" alt="drawing" width="75"/>          | [Deep House](deep-house.jpg)          | Dance TV      |
 | <img src="chill-af.jpg" alt="drawing" width="75"/>            | [chill-af](chill-af.jpg)              | Dance TV      |
 | <img src="algorhythm.jpg" alt="drawing" width="75"/>          | [algorhythm](algorhythm.jpg)          | Dance TV      |
-| <img src="[music/DanceTV/bdancetv.jpg](https://kodibd.github.io/IP/music/DanceTV/bdancetv.jpg)" alt="drawing" width="75"/>              | [DTlogoV](DTlogo.jpg)                 | Dance TV      |
+| <img src="DanceTV/bdancetv.jpg" alt="drawing" width="75"/>              | [DTlogoV](DTlogo.jpg)                 | Dance TV      |
 | <img src="bloomberg.jpg" alt="drawing" width="75"/>           | [Bloomberg](bloomberg.jpg)            | News          |
 | <img src="CBS_News.png" alt="drawing" width="75"/>            | [CBS News](CBS_News.png)              | News          |
 | <img src="HaberGlobal.jpg" alt="drawing" width="75"/>         | [Haber Global](HaberGlobal.jpg)       | News          |
