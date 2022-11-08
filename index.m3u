@@ -13,7 +13,7 @@ https://kodibd.github.io/IP/tr/trt/trt2.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="" group-title="Nature" radio="false",Yaban TV
-https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=ffdab7722945152444140f32c79b717b
+https://kodibd.github.io/IP/tr/YabanTV/yaban.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Belgesel" tvg-logo="" group-title="Nature" radio="false",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Nature" radio="false",CGTN Document
