@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png" group-title="TV Channels" radio="false",kosmos
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4292608,CODECS="avc1.100.41,mp4a.40.2",RESOLUTION=1920x1080
 https://radiostreaming.ert.gr/ert-kosmos
