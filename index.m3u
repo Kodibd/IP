@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png" group-title="TV Channels" radio="false",M Türk
 https://kodibd.github.io/IP/tr/mTurk/mtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",M Türk
+#EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",TV 48
 https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cahble Hits" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="TV Channels "radio="false",Cable Hits
