@@ -241,10 +241,10 @@ https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.aac?i=27871
 #EXTINF:-1,GR Radio
 radio/gr.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Kosmos Jazz" tvg-logo="https://kodibd.github.io/IP/radio/gr/KosmosJazz.png" group-title="Jazz Radio" radio="true",Kosmos Jazz
+#EXTINF:-1 tvg-id="" tvg-name="Kosmos Jazz" tvg-logo="radio/gr/KosmosJazz.png" group-title="Jazz Radio" radio="true",Kosmos Jazz
 https://radiostreaming.ert.gr/ert-webjazz
 
-#EXTINF:-1 tvg-id="" tvg-name="Kosmos" tvg-logo="https://kodibd.github.io/IP/radio/gr/Kosmos.png" group-title="Jazz Radio" radio="true",Kosmos
+#EXTINF:-1 tvg-id="" tvg-name="Kosmos" tvg-logo="radio/gr/Kosmos.png" group-title="Jazz Radio" radio="true",Kosmos
 https://radiostreaming.ert.gr/ert-kosmos
 
 #EXTINF:-1,TRT2
