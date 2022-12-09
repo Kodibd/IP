@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#Egeo
 #EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png" group-title="TV Channels" radio="false",M Türk
 https://kodibd.github.io/IP/tr/mTurk/mtv.m3u8
 
