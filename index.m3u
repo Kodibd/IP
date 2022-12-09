@@ -149,9 +149,9 @@ https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 https://sc.vargonen.net:5001/;stream.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
-https://radio-trtturku.live.trt.com.tr/master.m3u8
+https://nmicenotrt.mediatriple.net/trt_turku.aac
 #EXTINF:-1 tvg-id="" tvg-name="TRT Nağme" tvg-logo="" group-title="TRT" radio="true",TRT Nağme
-https://radio-trtnagme.live.trt.com.tr/master.m3u8
+https://nmicenotrt.mediatriple.net/trt_nagme.aac
 #EXTINF:-1 tvg-id="" tvg-name="Ankara Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Ankara Universite
 http://radyo.cc.ankara.edu.tr:8089/;stream/1
 #EXTINF:-1 tvg-id="" tvg-name="Radyo Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Radyo Universite
