@@ -84,6 +84,8 @@ https://kodibd.github.io/IP/music/DanceTV/bdancetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Melodic Tech" tvg-logo="https://kodibd.github.io/logo/mtDance.jpg" group-title="Music" radio="false",Melodic Tech
 https://kodibd.github.io/IP/music/DanceTV/mtdance.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Daserste" tvg-logo="https://kodibd.github.io/IP/tvch/daserste.png" group-title="TV Channels "radio="false",Daserste
+https://kodibd.github.io/IP/tvch/daserste.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://kodibd.github.io/IP/news/JP_NHKW/nhkw.png" group-title="News" radio="false",NHK World
 https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
