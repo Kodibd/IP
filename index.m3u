@@ -146,7 +146,8 @@ https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 #Radio TR
 #EXTINF:-1,
 #EXTINF:-1 tvg-id="" tvg-name="FG Radio 93.7" tvg-logo="https://futuregeneration.net/images/fg-logo.png" group-title="Undrgrnd" radio="true",FG Radio 93.7
-https://sc.vargonen.net:5001/;stream.acc
+https://sc.vargonen.net:5001/;?type=http&nocache=81869
+#https://sc.vargonen.net:5001/;stream.acc
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
 https://nmicenotrt.mediatriple.net/trt_turku.aac
