@@ -19,7 +19,8 @@ https://kodibd.github.io/IP/tr/halk/htv.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trt2.jpg" group-title="TRT" radio="false",TRT2
 https://kodibd.github.io/IP/tr/trt/trt2.m3u8
 
-
+#EXTINF:-1,TRT2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="https://kodibd.github.io/IP/tr/YabanTV/yaban.png" group-title="Nature" radio="false",Yaban TV
 https://kodibd.github.io/IP/tr/YabanTV/yaban.m3u8
@@ -118,7 +119,6 @@ https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Espanol" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_espanol.png" group-title="News" radio="false",CGTN Espanol
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rtv_noord_nl_tv.png" group-title="Netherlands" radio="false",RTV
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NH TV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/nn/nh-tv-nl.png" group-title="Netherlands" radio="false",NH TV
@@ -132,11 +132,6 @@ https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tivi Türk" tvg-logo="http://onex-media.com/wp-content/uploads/2018/12/32.png" group-title="Turkey" radio="false",tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Selçuk Universitesi" tvg-logo="" group-title="University TV" radio="false",Selçuk Universitesi
 https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 
@@ -148,6 +143,10 @@ https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 
 
 
+#Radio TR
+#EXTINF:-1,
+#EXTINF:-1 tvg-id="" tvg-name="FG Radio 93,7" tvg-logo="https://futuregeneration.net/images/fg-logo.png" group-title="Undrgrnd" radio="true",FG Radio 93,7
+https://sc.vargonen.net:5001/;stream.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
 https://radio-trtturku.live.trt.com.tr/master.m3u8
@@ -171,10 +170,14 @@ http://160.75.86.29:8097
 https://stream.34bit.net/ar.opus
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="News" radio="true",Bloomberg
 https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kosmos FM GR" tvg-logo="https://www.lyngsat-logo.com/logo/radio/ee/ert_gr_radio_4.png" group-title="Greece" radio="true",Kosmos FM GR
-https://radiostreaming.ert.gr/ert-kosmos
 
+#EXTINF:-1,Haber Sputnik_Tur
+https://nfw.ria.ru/flv/audio.aspx?ID=98318704&amp;type=mp3 
 
+#EXTINF:-1,Haber Sputnik_Eng
+https://nfw.ria.ru/flv/audio.aspx?ID=75651129&type=mp3
+
+#Radio FR
 #EXTINF:-1 tvg-id="" tvg-name="JazzSoul" tvg-logo="https://kodibd.github.io/lo/r/jazzradio.png" group-title="Jazz Radio" radio="true",JazzSoul
 https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac?i=53767
 #EXTINF:-1 tvg-id="30920" tvg-name="Blues" tvg-logo="https://kodibd.github.io/lo/r/blues.png" group-title="Jazz Radio" radio="true",Blues
@@ -242,41 +245,20 @@ https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.aac?i=89856
 #EXTINF:-1 tvg-id="" tvg-name="Saxo Jazz" tvg-logo="https://kodibd.github.io/lo/r/saxo-jazz1.png" group-title="Jazz Radio" radio="true",Saxo Jazz
 https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.aac?i=27871
 
-
-
-
-#EXTINF:0,***********************  ***********************
-
+#Radio GR
 #EXTINF:-1,GR Radio
 radio/gr.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="Kosmos Jazz" tvg-logo="https://kodibd.github.io/IP/radio/gr/KosmosJazz.png" group-title="Jazz Radio" radio="true",Kosmos Jazz
 https://radiostreaming.ert.gr/ert-webjazz
-
 #EXTINF:-1 tvg-id="" tvg-name="Kosmos" tvg-logo="https://kodibd.github.io/IP/radio/gr/Kosmos.png" group-title="Jazz Radio" radio="true",Kosmos
 https://radiostreaming.ert.gr/ert-kosmos
 
-#EXTINF:-1,TRT2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1,Çiftçi TV
-https://59cba4d34b678.streamlock.net/canlitv/ciftcitv/playlist.m3u8?hash=6152bd85be72d006723bf31998f1ac36
 
-#EXTINF:-1,Yaban TV 
-https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=6152bd85be72d006723bf31998f1ac36
 
-#EXTINF:-1,Haber Sputnik_Tur
-https://nfw.ria.ru/flv/audio.aspx?ID=98318704&amp;type=mp3 
-
-#EXTINF:-1,Haber Sputnik_Eng
-https://nfw.ria.ru/flv/audio.aspx?ID=75651129&type=mp3
 
 #EXTINF:-1,FG House Chic
 http://radiofg.impek.com/fgc64.aac
-#EXTINF:-1,FG Radio 93,7
-http://37.1.144.106:9001/;stream/1
 #EXTINF:-1,FG Undrgrnd
 http://radiofg.impek.com/ufg.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="Super 7 TV" tvg-logo="https://kodibd.github.io/IP/tr/super7tv/s7tv.jpg" group-title="TV Channels" radio="false",Super 7 TV
-https://kodibd.github.io/IP/tr/super7tv/s7tv.m3u8
