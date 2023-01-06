@@ -1,0 +1,137 @@
+#EXTM3U
+
+#Radio TR
+#EXTINF:-1,
+#EXTINF:-1 tvg-id="" tvg-name="FG Radio" tvg-logo="" group-title="Undrgrnd" radio="true",FG Radio
+https://sc.vargonen.net:5001/stream.acc
+
+#EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
+https://nmicenotrt.mediatriple.net/trt_turku.aac
+#EXTINF:-1 tvg-id="" tvg-name="TRT Nağme" tvg-logo="" group-title="TRT" radio="true",TRT Nağme
+https://nmicenotrt.mediatriple.net/trt_nagme.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="Maziden Bir Demet" tvg-logo="" group-title="Alaturka" radio="true",Maziden Bir Demet
+http://37.247.98.8/stream/24/.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="Kral FM" tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png" group-title="Alaturka" radio="true",Kral FM
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="45'lik" tvg-logo="https://radyo45lik.com/wp-content/uploads/2022/11/45lik-logo_2020-sade_guncel-fav2.png" group-title="Alaturka" radio="true",45'lik
+https://stream.radyo45lik.com:4545/
+
+#EXTINF:-1 tvg-id="" tvg-name="Kral Pop" tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png" group-title="Alaturka" radio="true",Kral Pop
+http://46.20.3.201:80/
+
+#EXTINF:-1 tvg-id="" tvg-name="AlemFM" tvg-logo="" group-title="Alaturka" radio="true",AlemFM
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Ankara Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Ankara Universite
+http://radyo.cc.ankara.edu.tr:8089/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Radyo Universite
+http://radyo.cu.edu.tr/Stream1?type=http
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Radyo Universite
+http://radyo.cu.edu.tr/Stream1
+#EXTINF:-1 tvg-id="" tvg-name="Radyo ODTÜ" tvg-logo="" group-title="UniversityRadio" radio="true",Radyo ODTÜ
+http://stream.radyoodtu.com.tr:8006/
+#EXTINF:-1 tvg-id="" tvg-name="ITU Radio Rock" tvg-logo="" group-title="UniversityRadio" radio="true",ITU Radio Rock
+http://160.75.86.29:8088
+#EXTINF:-1 tvg-id="" tvg-name="ITU Radio Jazz/Blues" tvg-logo="" group-title="UniversityRadio" radio="true",ITU Radio Jazz/Blues
+http://160.75.86.29:8090
+#EXTINF:-1 tvg-id="" tvg-name="ITU Radio Classical" tvg-logo="" group-title="UniversityRadio" radio="true",ITU Radio Classical
+http://160.75.86.29:8097
+#EXTINF:-1 tvg-id="" tvg-name="Açık Radyo" tvg-logo="" group-title="Agenda" radio="true",Açık Radyo
+https://stream.34bit.net/ar.opus
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="News" radio="true",Bloomberg
+https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
+
+#EXTINF:-1,Haber Sputnik_Tur
+https://nfw.ria.ru/flv/audio.aspx?ID=98318704&amp;type=mp3 
+
+#EXTINF:-1,Haber Sputnik_Eng
+https://nfw.ria.ru/flv/audio.aspx?ID=75651129&type=mp3
+
+#Radio FR
+#EXTINF:-1 tvg-id="" tvg-name="JazzSoul" tvg-logo="https://kodibd.github.io/lo/r/jazzradio.png" group-title="Jazz Radio" radio="true",JazzSoul
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac?i=53767
+#EXTINF:-1 tvg-id="30920" tvg-name="Blues" tvg-logo="https://kodibd.github.io/lo/r/blues.png" group-title="Jazz Radio" radio="true",Blues
+https://jazzblues.ice.infomaniak.ch/jazzblues-high.aac?i=30920
+#EXTINF:-1 tvg-id="" tvg-name="Lounge" tvg-logo="https://kodibd.github.io/lo/r/lounge.png" group-title="Jazz Radio" radio="true",Lounge
+https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac?i=17719
+#EXTINF:-1 tvg-id="" tvg-name="Only Women" tvg-logo="https://kodibd.github.io/lo/r/only-women.png" group-title="Jazz Radio" radio="true",Only Women
+https://jazz-wr16.ice.infomaniak.ch/jazz-wr16-64.aac?i=29306
+#EXTINF:-1 tvg-id="" tvg-name="SLY Johnson" tvg-logo="https://kodibd.github.io/lo/r/slyjohnson.png" group-title="Jazz Radio" radio="true",SLY Johnson
+https://jazz-thema.ice.infomaniak.ch/jazz-thema.aac?i=30481
+#EXTINF:-1 tvg-id="" tvg-name="Valentine's Day" tvg-logo="https://kodibd.github.io/lo/r/valentines-day.png" group-title="Jazz Radio" radio="true",Valentine's Day
+https://jzr-events-01.ice.infomaniak.ch/jzr-events-01.mp3?i=11055
+#EXTINF:-1 tvg-id="" tvg-name="Nouveautés Soul" tvg-logo="https://kodibd.github.io/lo/r/nouveautes-soul.png" group-title="Jazz Radio" radio="true",Nouveautés Soul
+https://jzr-wr19.ice.infomaniak.ch/jzr-wr19-64.aac?i=39282
+#EXTINF:-1 tvg-id="" tvg-name="Funk" tvg-logo="https://kodibd.github.io/lo/r/funk.png" group-title="Jazz Radio" radio="true",Funk
+https://jazz-wr06.ice.infomaniak.ch/jazz-wr06-64.aac?i=60458
+#EXTINF:-1 tvg-id="" tvg-name="Electro Swing" tvg-logo="https://kodibd.github.io/lo/r/electro-swing.png" group-title="Jazz Radio" radio="true",Electro Swing
+https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=30009
+#EXTINF:-1 tvg-id="" tvg-name="Zen Attitude" tvg-logo="https://kodibd.github.io/lo/r/zen-attitude.png" group-title="Jazz Radio" radio="true",Zen Attitude
+https://zen-attitude.ice.infomaniak.ch/zen-attitude.aac?i=67202
+#EXTINF:-1 tvg-id="" tvg-name="Soul" tvg-logo="https://kodibd.github.io/lo/r/soul.png" group-title="Jazz Radio" radio="true",Soul
+https://jazz-wr10.ice.infomaniak.ch/jazz-wr10-64.aac?i=68067
+#EXTINF:-1 tvg-id="" tvg-name="Piano" tvg-logo="https://kodibd.github.io/lo/r/piano-jazz2.png" group-title="Jazz Radio" radio="true",Piano
+https://jzr-piano.ice.infomaniak.ch/jzr-piano.aac?i=16540
+#EXTINF:-1 tvg-id="" tvg-name="Stax AND Motown" tvg-logo="https://kodibd.github.io/lo/r/stax-and-motown.png" group-title="Jazz Radio" radio="true",Stax AND Motown
+https://jazz-wr15.ice.infomaniak.ch/jazz-wr15-64.aac?i=31897
+#EXTINF:-1 tvg-id="" tvg-name="Manouche" tvg-logo="https://kodibd.github.io/lo/r/manouche.png" group-title="Jazz Radio" radio="true",Manouche
+https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-64.aac?i=72630
+#EXTINF:-1 tvg-id="" tvg-name="Nouveautés" tvg-logo="https://kodibd.github.io/lo/r/nouveautes.png" group-title="Jazz Radio" radio="true",Nouveautés
+https://jzr-wr99.ice.infomaniak.ch/jzr-wr99.aac?i=78265
+#EXTINF:-1 tvg-id="" tvg-name="Black Music" tvg-logo="https://kodibd.github.io/lo/r/black.png" group-title="Jazz Radio" radio="true",Black Music
+https://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.aac?i=13354
+#EXTINF:-1 tvg-id="" tvg-name="Classic" tvg-logo="https://kodibd.github.io/lo/r/classic.png" group-title="Jazz Radio" radio="true",Classic
+https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-64.aac?i=45564
+#EXTINF:-1 tvg-id="" tvg-name="Groove" tvg-logo="https://kodibd.github.io/lo/r/groove.png" group-title="Jazz Radio" radio="true",Groove
+https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-64.aac?i=98252
+#EXTINF:-1 tvg-id="" tvg-name="Gospel" tvg-logo="https://kodibd.github.io/lo/r/gospel.png" group-title="Jazz Radio" radio="true",Gospel
+https://jazz-wr07.ice.infomaniak.ch/jazz-wr07-64.aac?i=80913
+#EXTINF:-1 tvg-id="" tvg-name="French" tvg-logo="https://kodibd.github.io/lo/r/french.png" group-title="Jazz Radio" radio="true",French
+https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-64.aac?i=73640
+#EXTINF:-1 tvg-id="" tvg-name="Classique" tvg-logo="https://kodibd.github.io/lo/r/classique.png" group-title="Jazz Radio" radio="true",Classique
+https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-64.aac?i=21765
+#EXTINF:-1 tvg-id="" tvg-name="Jazz & Cinema" tvg-logo="https://kodibd.github.io/lo/r/cinema.png" group-title="Jazz Radio" radio="true",Jazz & Cinema
+https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.aac?i=58976
+#EXTINF:-1 tvg-id="" tvg-name="Ladies & Crooners" tvg-logo="https://kodibd.github.io/lo/r/ladies-crooners.png" group-title="Jazz Radio" radio="true",Ladies & Crooners
+https://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.aac?i=43794
+#EXTINF:-1 tvg-id="" tvg-name="Reprises" tvg-logo="https://kodibd.github.io/lo/r/reprises.png" group-title="Jazz Radio" radio="true",Reprises
+https://reprises.ice.infomaniak.ch/reprises-high.aac?i=71022
+#EXTINF:-1 tvg-id="" tvg-name="Contemporary" tvg-logo="https://kodibd.github.io/lo/r/contemporary.png" group-title="Jazz Radio" radio="true",Contemporary
+https://jazz-wr05.ice.infomaniak.ch/jazz-wr05-64.aac?i=61969
+#EXTINF:-1 tvg-id="" tvg-name="New Orleans" tvg-logo="https://kodibd.github.io/lo/r/new-orleans.png" group-title="Jazz Radio" radio="true",New Orleans
+https://jazz-wr03.ice.infomaniak.ch/jazz-wr03-64.aac?i=71810
+#EXTINF:-1 tvg-id="" tvg-name="Soul Food" tvg-logo="https://kodibd.github.io/lo/r/soulfood.png" group-title="Jazz Radio" radio="true",Soul Food
+https://jazz-wr12.ice.infomaniak.ch/jazz-wr12-64.aac?i=76463
+#EXTINF:-1 tvg-id="" tvg-name="Latin" tvg-logo="https://kodibd.github.io/lo/r/latin.png" group-title="Jazz Radio" radio="true",Latin
+https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-64.aac?i=14642
+#EXTINF:-1 tvg-id="" tvg-name="Happy Hour" tvg-logo="https://kodibd.github.io/lo/r/happy-hour.png" group-title="Jazz Radio" radio="true",Happy Hour
+https://jazz-wr14.ice.infomaniak.ch/jazz-wr14-64.aac?i=22961
+#EXTINF:-1 tvg-id="" tvg-name="Groov'up" tvg-logo="https://kodibd.github.io/lo/r/groovup.png" group-title="Jazz Radio" radio="true",Groov'up
+https://jazz-wr13.ice.infomaniak.ch/jazz-wr13-64.aac?i=25598
+#EXTINF:-1 tvg-id="" tvg-name="Jazz Fusion" tvg-logo="https://kodibd.github.io/lo/r/fusion.png" group-title="Jazz Radio" radio="true",Jazz Fusion
+https://jazz-radio-fusion.ice.infomaniak.ch/jazz-radio-fusion.aac?i=72780
+#EXTINF:-1 tvg-id="" tvg-name="Afro Jazz" tvg-logo="https://kodibd.github.io/lo/r/afro.png" group-title="Jazz Radio" radio="true",Afro Jazz
+https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.aac?i=89856
+#EXTINF:-1 tvg-id="" tvg-name="Saxo Jazz" tvg-logo="https://kodibd.github.io/lo/r/saxo-jazz1.png" group-title="Jazz Radio" radio="true",Saxo Jazz
+https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.aac?i=27871
+
+#Radio GR
+#EXTINF:-1,GR Radio
+radio/gr.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Kosmos Jazz" tvg-logo="https://kodibd.github.io/IP/radio/gr/KosmosJazz.png" group-title="Jazz Radio" radio="true",Kosmos Jazz
+https://radiostreaming.ert.gr/ert-webjazz
+#EXTINF:-1 tvg-id="" tvg-name="Kosmos" tvg-logo="https://kodibd.github.io/IP/radio/gr/Kosmos.png" group-title="Jazz Radio" radio="true",Kosmos
+https://radiostreaming.ert.gr/ert-kosmos
+
+
+
+
+
+#EXTINF:-1,FG House Chic
+http://radiofg.impek.com/fgc64.aac
+#EXTINF:-1,FG Undrgrnd
+http://radiofg.impek.com/ufg.mp3
