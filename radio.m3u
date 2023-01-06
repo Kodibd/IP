@@ -6,25 +6,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="FG Radio" tvg-logo="" group-title="Undrgrnd" radio="true",FG Radio
 https://sc.vargonen.net:5001/stream.acc
 
-#EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
-https://nmicenotrt.mediatriple.net/trt_turku.aac
-#EXTINF:-1 tvg-id="" tvg-name="TRT Nağme" tvg-logo="" group-title="TRT" radio="true",TRT Nağme
-https://nmicenotrt.mediatriple.net/trt_nagme.aac
-
-#EXTINF:-1 tvg-id="" tvg-name="Maziden Bir Demet" tvg-logo="" group-title="Alaturka" radio="true",Maziden Bir Demet
-http://37.247.98.8/stream/24/.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="Kral FM" tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png" group-title="Alaturka" radio="true",Kral FM
-https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="45'lik" tvg-logo="https://radyo45lik.com/wp-content/uploads/2022/11/45lik-logo_2020-sade_guncel-fav2.png" group-title="Alaturka" radio="true",45'lik
-https://stream.radyo45lik.com:4545/
-
-#EXTINF:-1 tvg-id="" tvg-name="Kral Pop" tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png" group-title="Alaturka" radio="true",Kral Pop
-http://46.20.3.201:80/
-
-#EXTINF:-1 tvg-id="" tvg-name="AlemFM" tvg-logo="" group-title="Alaturka" radio="true",AlemFM
-http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FG Undrgrnd" tvg-logo="" group-title="Undrgrnd" radio="true",FG Undrgrnd
+http://radiofg.impek.com/ufg.mp3
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Ankara Universite" tvg-logo="" group-title="UniversityRadio" radio="true",Ankara Universite
@@ -43,14 +26,7 @@ http://160.75.86.29:8090
 http://160.75.86.29:8097
 #EXTINF:-1 tvg-id="" tvg-name="Açık Radyo" tvg-logo="" group-title="Agenda" radio="true",Açık Radyo
 https://stream.34bit.net/ar.opus
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="News" radio="true",Bloomberg
-https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 
-#EXTINF:-1,Haber Sputnik_Tur
-https://nfw.ria.ru/flv/audio.aspx?ID=98318704&amp;type=mp3 
-
-#EXTINF:-1,Haber Sputnik_Eng
-https://nfw.ria.ru/flv/audio.aspx?ID=75651129&type=mp3
 
 #Radio FR
 #EXTINF:-1 tvg-id="" tvg-name="JazzSoul" tvg-logo="https://kodibd.github.io/lo/r/jazzradio.png" group-title="Jazz Radio" radio="true",JazzSoul
@@ -134,5 +110,34 @@ https://radiostreaming.ert.gr/ert-kosmos
 
 #EXTINF:-1,FG House Chic
 http://radiofg.impek.com/fgc64.aac
-#EXTINF:-1,FG Undrgrnd
-http://radiofg.impek.com/ufg.mp3
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="News" radio="true",Bloomberg
+https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
+
+#EXTINF:-1,Haber Sputnik_Tur
+https://nfw.ria.ru/flv/audio.aspx?ID=98318704&amp;type=mp3 
+
+#EXTINF:-1,Haber Sputnik_Eng
+https://nfw.ria.ru/flv/audio.aspx?ID=75651129&type=mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="TRT Türkü" tvg-logo="" group-title="TRT" radio="true",TRT Türkü
+https://nmicenotrt.mediatriple.net/trt_turku.aac
+#EXTINF:-1 tvg-id="" tvg-name="TRT Nağme" tvg-logo="" group-title="TRT" radio="true",TRT Nağme
+https://nmicenotrt.mediatriple.net/trt_nagme.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="Maziden Bir Demet" tvg-logo="" group-title="Alaturka" radio="true",Maziden Bir Demet
+http://37.247.98.8/stream/24/.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="Kral FM" tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png" group-title="Alaturka" radio="true",Kral FM
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="45'lik" tvg-logo="https://radyo45lik.com/wp-content/uploads/2022/11/45lik-logo_2020-sade_guncel-fav2.png" group-title="Alaturka" radio="true",45'lik
+https://stream.radyo45lik.com:4545/
+
+#EXTINF:-1 tvg-id="" tvg-name="Kral Pop" tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png" group-title="Alaturka" radio="true",Kral Pop
+http://46.20.3.201:80/
+
+#EXTINF:-1 tvg-id="" tvg-name="AlemFM" tvg-logo="" group-title="Alaturka" radio="true",AlemFM
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
