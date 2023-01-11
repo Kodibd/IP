@@ -3,6 +3,10 @@
 
 #Radio TR
 #EXTINF:-1,
+
+#EXTINF:-1 tvg-id="" tvg-name="Audio_1" tvg-logo="" group-title="Undrgrnd" radio="true",Audio_1
+https://555ip.github.io/Audio/1/dgk.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FG Radio" tvg-logo="" group-title="Undrgrnd" radio="true",FG Radio
 https://sc.vargonen.net:5001/stream.acc
 
