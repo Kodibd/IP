@@ -25,6 +25,9 @@ https://kodibd.github.io/IP/tr/trt/trt2.m3u8
 #EXTINF:-1,TRT2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="The Bob Ross Channel" tvg-logo="" group-title="Nature" radio="false",The Bob Ross Channel
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Fishing TV1" tvg-logo="" group-title="Nature" radio="false",Fishing TV1
 https://l24.im/utl1
 
