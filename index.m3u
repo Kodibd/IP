@@ -12,15 +12,21 @@ https://kodibd.github.io/IP/tr/kent/kent.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cahble Hits" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="TV Channels "radio="false",Cable Hits
 https://kodibd.github.io/IP/tvch/cablehits.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yol_tv_de.png" group-title="TV Channels" radio="false",YOL TV
 https://kodibd.github.io/IP/tr/yol/yol.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk-tv-tr.png" group-title="TV Channels" radio="false",Halk TV
 https://kodibd.github.io/IP/tr/halk/htv.m3u8
+
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trt2.jpg" group-title="TRT" radio="false",TRT2
 https://kodibd.github.io/IP/tr/trt/trt2.m3u8
 
 #EXTINF:-1,TRT2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fishing TV1" tvg-logo="" group-title="Nature" radio="false",Fishing TV1
+https://l24.im/yE9i.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="https://kodibd.github.io/IP/tr/YabanTV/yaban.png" group-title="Nature" radio="false",Yaban TV
 https://kodibd.github.io/IP/tr/YabanTV/yaban.m3u8
