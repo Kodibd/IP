@@ -1,8 +1,7 @@
 #EXTM3U
 
 #Egeo
-#EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png" group-title="TV Channels" radio="false",M Türk
-https://kodibd.github.io/IP/tr/mTurk/mtv.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",TV 48
 https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
@@ -147,11 +146,14 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png" group-title="TV Channels" radio="false",M Türk
+https://kodibd.github.io/IP/tr/mTurk/mtv.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Test1" tvg-logo="" group-title="University TV" radio="false",Test1
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&gdpr=0
+#EXTINF:-1 tvg-id="" tvg-name="Test2" tvg-logo="" group-title="University TV" radio="false",Test2
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=568gy82kf3hp&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
 
 #Radio TR
