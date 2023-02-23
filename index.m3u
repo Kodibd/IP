@@ -6,6 +6,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",TV 48
 https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Test" tvg-logo="https://www.szctv.com.tr/lib/clientapp/assets/images/logo.png" group-title="TV Channels" radio="false",Test
+https://www.dailymotion.com/cdn/live/video/x8i9j7s.m3u8?sec=2cp2orTv9zTTpR7nyAYQ5Yxxbfp4kJESt1xPHU9XjtNvCX-7kSAUqtC_7TE4KpcwVQUNlSlFVUAxX3ihkWzhxw&dmTs=554739&dmV1st=b9bb70b7-97b3-445a-af77-9c8bbb32647d
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Kent Tv" tvg-logo="https://kodibd.github.io/IP/tr/kent/kent.png" group-title="TV Channels" radio="false",Kent Tv
 https://kodibd.github.io/IP/tr/kent/kent.m3u8
 
