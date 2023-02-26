@@ -8,7 +8,7 @@ https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Test" tvg-logo="https://www.szctv.com.tr/lib/clientapp/assets/images/logo.png" group-title="TV Channels" radio="false",Test
-https://stream-01.dc3.dailymotion.com/sec(Eass_GmycFHejU_poOXBSiAvD02Pkfqbgpd2o1_aJo2Cn0UmbH64jWivm9s3Z_dx)/dm/3/x8i9j7s/s/live-4.m3u8#cell=lcore
+https://geo.dailymotion.com/player/xc1r0.html?video=x8i9j7s
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Kent Tv" tvg-logo="https://kodibd.github.io/IP/tr/kent/kent.png" group-title="TV Channels" radio="false",Kent Tv
