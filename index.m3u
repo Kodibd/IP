@@ -7,9 +7,11 @@
 https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Test" tvg-logo="https://www.szctv.com.tr/lib/clientapp/assets/images/logo.png" group-title="TV Channels" radio="false",Test
-https://www.dailymotion.com/embed/video/x8i9j7s?autoplay=1
+#EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://www.szctv.com.tr/lib/clientapp/assets/images/logo.png" group-title="TV Channels" radio="false",SZC TV
+https://tinyurl.com/SozcuTV2
 
+#EXTINF:-1 tvg-id="" tvg-name="Haber Türk" tvg-logo="" group-title="TV Channels" radio="false",Haber Türk
+https://tinyurl.com/2t99ftus
 
 #EXTINF:-1 tvg-id="" tvg-name="Kent Tv" tvg-logo="https://kodibd.github.io/IP/tr/kent/kent.png" group-title="TV Channels" radio="false",Kent Tv
 https://kodibd.github.io/IP/tr/kent/kent.m3u8
