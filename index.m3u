@@ -1,7 +1,8 @@
 #EXTM3U
 
 #Egeo
-
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trt2.jpg" group-title="TRT" radio="false",TRT2
+https://kodibd.github.io/IP/tr/trt/trt2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",TV 48
 https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
