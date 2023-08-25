@@ -9,6 +9,13 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/7027954.png" group-title="TRT" radio="false",TRT2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="TRTbelgesel.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/8114410.png" group-title="TRT" radio="false",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTbelgesel" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/8114410.png" group-title="Nature" radio="false",TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",TV 48
 https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
 
@@ -45,8 +52,9 @@ https://l24.im/utl1
 
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="https://kodibd.github.io/IP/tr/YabanTV/yaban.png" group-title="Nature" radio="false",Yaban TV
 https://kodibd.github.io/IP/tr/YabanTV/yaban.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT Belgesel" tvg-logo="" group-title="Nature" radio="false",TRT Belgesel
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Nature" radio="false",CGTN Document
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
