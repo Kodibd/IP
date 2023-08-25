@@ -29,6 +29,9 @@ https://tinyurl.com/2t99ftus
 #EXTINF:-1 tvg-id="" tvg-name="Haber Türk" tvg-logo="" group-title="TV Channels" radio="false",Haber Türk 2
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 
+#EXTINF:-1 tvg-id="HT.tr" tvg-name="" tvg-logo="" group-title="TV Channels" radio="false",Haber Türk 720p
+https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=5ogwfpekmqz3&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Kent Tv" tvg-logo="https://kodibd.github.io/IP/tr/kent/kent.png" group-title="TV Channels" radio="false",Kent Tv
 https://kodibd.github.io/IP/tr/kent/kent.m3u8
