@@ -9,10 +9,10 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/7027954.png" group-title="TRT" radio="false",TRT2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRTbelgesel.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/8114410.png" group-title="TRT" radio="false",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTbelgesel.tr" tvg-name="" tvg-logo="" group-title="TRT" radio="false",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRTbelgesel" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/8114410.png" group-title="Nature" radio="false",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTbelgesel" tvg-name="" tvg-logo="" group-title="Nature" radio="false",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 
 
