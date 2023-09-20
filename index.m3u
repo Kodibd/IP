@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BLUES TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8?checkedby:iptvcat.com
+
 #Egeo
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/10660277.png" group-title="TRT" radio="false",TRT1
