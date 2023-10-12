@@ -4,6 +4,10 @@
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BLUES TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8?checkedby:iptvcat.com
 
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yoga
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-yoga/017b7c6f-d25b-47b3-8a82-a7dc91a3dc3b/2.m3u8
+
 #Egeo
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/10660277.png" group-title="TRT" radio="false",TRT1
