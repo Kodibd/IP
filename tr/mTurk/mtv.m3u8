@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1416166,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1280x720
-https://broadcasttr.com:446/muglaturk/bant1/chunklist_w391732288.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1621090,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8?nimblesessionid=1103840101
