@@ -46,8 +46,12 @@ https://kodibd.github.io/IP/tr/halk/htv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="https://kodibd.github.io/IP/tr/YabanTV/yaban.png" group-title="Nature" radio="false",Yaban TV
 https://kodibd.github.io/IP/tr/YabanTV/yaban.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Çiftci TV" tvg-logo="https://kodibd.github.io/IP/tr/CiftciTV/ciftci.png" group-title="Nature" radio="false", Çiftci TV
+#EXTINF:-1 tvg-id="" tvg-name="Çiftci TV" tvg-logo="https://kodibd.github.io/IP/tr/CiftciTV/ciftci.png" group-title="Nature" radio="false",Çiftci TV
 https://kodibd.github.io/IP/tr/CiftciTV/ciftci.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Köy TV" tvg-logo="https://kodibd.github.io/IP/tr/KoyTV/koy.png" group-title="Nature" radio="false",Köy TV
+https://kodibd.github.io/IP/tr/KoyTV/koy.m3u8
+
 
 #Egeo
 #EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",TV 48
@@ -55,8 +59,6 @@ https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kent Tv" tvg-logo="https://kodibd.github.io/IP/tr/kent/kent.png" group-title="TV Channels" radio="false",Kent Tv
 https://kodibd.github.io/IP/tr/kent/kent.m3u8
-
-
 
 
 
