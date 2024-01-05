@@ -34,6 +34,9 @@ https://kodibd.github.io/IP/sports/tjktv.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR live" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor.png" group-title="Sports" radio="false",TRT SPOR live
 https://tv-trtspor1-1.live.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Sports TV" tvg-logo="https://kodibd.github.io/IP/sports/sportstv.png" group-title="Sports" radio="false",Sports TV
+https://kodibd.github.io/IP/sports/sportstv.m3u8
+
 #EXTINF:-1 tvg-id="HT.tr" tvg-name="" tvg-logo="" group-title="TV Channels" radio="false",Haber Türk
 https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=5ogwfpekmqz3&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 
@@ -64,8 +67,18 @@ https://kodibd.github.io/IP/tr/CiftciTV/ciftci.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Köy TV" tvg-logo="https://kodibd.github.io/IP/tr/KoyTV/koy.png" group-title="Nature" radio="false",Köy TV
 https://kodibd.github.io/IP/tr/KoyTV/koy.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Selçuk Universitesi" tvg-logo="" group-title="University TV" radio="false",Selçuk Universitesi
+https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUPprdLCjaZuVykvtrEvYXxOd2V32RZWjUmWn_=s900-c-k-c0x00ffffff-no-rj" group-title="Turkey" radio="false",Life TV
+https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="tivi Türk" tvg-logo="http://onex-media.com/wp-content/uploads/2018/12/32.png" group-title="Turkey" radio="false",tivi Türk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
 
 #Egeo
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",TV 48
 https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
 
@@ -75,78 +88,77 @@ https://kodibd.github.io/IP/tr/mTurk/mtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kent Tv" tvg-logo="https://kodibd.github.io/IP/tr/kent/kent.png" group-title="TV Channels" radio="false",Kent Tv
 https://kodibd.github.io/IP/tr/kent/kent.m3u8
 
-
-
-
 #Greece
 
-#EXTINF:-1 tvg-id="" tvg-name="SKAÏ" tvg-logo="" group-title="Greece" radio="false", SKAÏ
+#EXTINF:-1 tvg-id="" tvg-name="SKAÏ" tvg-logo="" group-title="Greece" radio="false",SKAÏ (GR)
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ONE Channel" tvg-logo="" group-title="Greece" radio="false", ONE Channel
+#EXTINF:-1 tvg-id="" tvg-name="ONE Channel" tvg-logo="" group-title="Greece" radio="false",ONE Channel (GR)
 https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV100" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-100-gr.png" group-title="Greece" radio="false", TV100
+#EXTINF:-1 tvg-id="" tvg-name="TV100" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-100-gr.png" group-title="Greece" radio="false",TV100 (GR)
 https://live.fm100.gr/hls/tv100/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Alpha TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alpha-gr.png" group-title="Greece" radio="false", Alpha TV
+#EXTINF:-1 tvg-id="" tvg-name="Alpha TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alpha-gr.png" group-title="Greece" radio="false",Alpha TV (GR)
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/rnvhxjff/720/chunklist.m3u8
-
 
 #USA
 
-#EXTINF:-1 tvg-id="" tvg-name="Motor Racing" tvg-logo="" group-title="TV Channels "radio="false",Motor Racing
+#EXTINF:-1 tvg-id="" tvg-name="Motor Racing" tvg-logo="" group-title="TV Channels "radio="false",Motor Racing (US)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Outside" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outside-tv-us.png" group-title="TV Channels "radio="false",Outside
+#EXTINF:-1 tvg-id="" tvg-name="Outside" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outside-tv-us.png" group-title="TV Channels "radio="false",Outside (US)
 https://kodibd.github.io/IP/tvch/usa/outside.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cahble Hits" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="TV Channels "radio="false",Cable Hits
+#EXTINF:-1 tvg-id="" tvg-name="Cahble Hits" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="TV Channels "radio="false",Cable Hits (US)
 https://kodibd.github.io/IP/tvch/cablehits.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Bob Ross Channel" tvg-logo="" group-title="Nature" radio="false",The Bob Ross Channel
+#EXTINF:-1 tvg-id="" tvg-name="The Bob Ross Channel" tvg-logo="" group-title="Nature" radio="false",The Bob Ross Channel (US)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Fishing TV1" tvg-logo="" group-title="Nature" radio="false",Fishing TV1
-https://l24.im/utl1
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BLUES TV
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BLUES TV (US)
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/thumbh_20200917_223145_270.jpg" group-title="Undefined",Yoga
+#EXTINF:0 tvg-country="US" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/thumbh_20200917_223145_270.jpg" group-title="Undefined",Yoga (US)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-yoga/017b7c6f-d25b-47b3-8a82-a7dc91a3dc3b/2.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yoga Fit 720p
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yoga Fit 720p (US)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/acbb249c-6c52-4161-b1c6-882ce9501ba8/1.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yoga Fit 1080p
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yoga Fit 1080p (US)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/acbb249c-6c52-4161-b1c6-882ce9501ba8/2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ACC Network" tvg-logo="" group-title="Sports" radio="false",ACC Network (US)
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sports Grid" tvg-logo="https://kodibd.github.io/IP/sports/sportsgrid.png" group-title="Sports" radio="false",Sports Grid (US)
+https://kodibd.github.io/IP/sports/sportsgrid.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://kodibd.github.io/IP/sports/edgesport.png" group-title="Sports" radio="false",Edge Sport (US)
+https://kodibd.github.io/IP/sports/edgesport.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://kodibd.github.io/IP/sports/stadium.png" group-title="Sports" radio="false",Stadium (US)
+https://kodibd.github.io/IP/sports/stadium.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg US" tvg-logo="https://kodibd.github.io/IP/news/US_Bloomberg/bus.jpg" group-title="News" radio="false",Bloomberg (US)
+https://kodibd.github.io/IP/news/US_Bloomberg/bus.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/IP/news/US_CBSNews/cbsn.png" group-title="News" radio="false",CBS News (US)
+https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="RedBull" tvg-logo="https://kodibd.github.io/IP/sports/rb.png" group-title="Sports" radio="false",RedBull (AU)
+https://kodibd.github.io/IP/sports/redbull.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Nature" radio="false",CGTN Document
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Document" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Nature" radio="false",CGTN Document (CH)
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ACC Network" tvg-logo="" group-title="Sports" radio="false",ACC Network
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RedBull" tvg-logo="https://kodibd.github.io/IP/sports/rb.png" group-title="Sports" radio="false",RedBull
-https://kodibd.github.io/IP/sports/redbull.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://kodibd.github.io/IP/sports/fox_sports_au.png" group-title="Sports" radio="false",Fox Sports
-https://kodibd.github.io/IP/sports/foxsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports Grid" tvg-logo="https://kodibd.github.io/IP/sports/sportsgrid.png" group-title="Sports" radio="false",Sports Grid
-https://kodibd.github.io/IP/sports/sportsgrid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://kodibd.github.io/IP/sports/edgesport.png" group-title="Sports" radio="false",Edge Sport
-https://kodibd.github.io/IP/sports/edgesport.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://kodibd.github.io/IP/sports/stadium.png" group-title="Sports" radio="false",Stadium
-https://kodibd.github.io/IP/sports/stadium.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports TV" tvg-logo="https://kodibd.github.io/IP/sports/sportstv.png" group-title="Sports" radio="false",Sports TV
-https://kodibd.github.io/IP/sports/sportstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="https://kodibd.github.io/IP/sports/gstv.png" group-title="Sports" radio="false",GS TV
-https://kodibd.github.io/IP/sports/gstv.m3u8
+
+
 
 
 
@@ -187,10 +199,8 @@ https://kodibd.github.io/IP/news/JP_NtvNews/ntvnewsjp.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg UK" tvg-logo="https://kodibd.github.io/IP/news/UK_Bloomberg/buk.png" group-title="News" radio="false",Bloomberg UK
 https://kodibd.github.io/IP/news/UK_Bloomberg/buk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg US" tvg-logo="https://kodibd.github.io/IP/news/US_Bloomberg/bus.jpg" group-title="News" radio="false",Bloomberg US
-https://kodibd.github.io/IP/news/US_Bloomberg/bus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://kodibd.github.io/IP/news/US_CBSNews/cbsn.png" group-title="News" radio="false",CBS News
-https://kodibd.github.io/IP/news/US_CBSNews/cbsn.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CNN Philippines"  tvg-logo="https://kodibd.github.io/IP/news/cnnp/cnnp.jpg" group-title="News" radio="false",CNN Philippines
 https://kodibd.github.io/IP/news/cnnp/playlist.m3u8
 
@@ -218,33 +228,13 @@ https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&pro
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=nhradio&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1 TV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/nn/nh-tv-nl.png" group-title="Netherlands" radio="false",L1 TV
 https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUPprdLCjaZuVykvtrEvYXxOd2V32RZWjUmWn_=s900-c-k-c0x00ffffff-no-rj" group-title="Turkey" radio="false",Life TV
-https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tivi Türk" tvg-logo="http://onex-media.com/wp-content/uploads/2018/12/32.png" group-title="Turkey" radio="false",tivi Türk
-https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Selçuk Universitesi" tvg-logo="" group-title="University TV" radio="false",Selçuk Universitesi
-https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Test1" tvg-logo="" group-title="University TV" radio="false",Test1
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&gdpr=0
-#EXTINF:-1 tvg-id="" tvg-name="Test2" tvg-logo="" group-title="University TV" radio="false",Test2
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=568gy82kf3hp&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-
-#EXTINF:-1 tvg-id="TRTbelgesel" tvg-name="" tvg-logo="" group-title="Nature" radio="false",TRT Belgesel
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Haber Türk" tvg-logo="" group-title="TV Channels" radio="false",Haber Türk 2
-https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trt2.jpg" group-title="TRT" radio="false",TRT2
-https://kodibd.github.io/IP/tr/trt/trt2.m3u8
-#EXTINF:-1,TRT2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 
 #Radio TR
@@ -280,6 +270,15 @@ https://nfw.ria.ru/flv/audio.aspx?ID=98318704&amp;type=mp3
 
 #EXTINF:-1,Haber Sputnik_Eng
 https://nfw.ria.ru/flv/audio.aspx?ID=75651129&type=mp3
+
+#Radio GR
+#EXTINF:-1,GR Radio
+radio/gr.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Kosmos Jazz" tvg-logo="https://kodibd.github.io/IP/radio/gr/KosmosJazz.png" group-title="Jazz Radio" radio="true",Kosmos Jazz
+https://radiostreaming.ert.gr/ert-webjazz
+#EXTINF:-1 tvg-id="" tvg-name="Kosmos" tvg-logo="https://kodibd.github.io/IP/radio/gr/Kosmos.png" group-title="Jazz Radio" radio="true",Kosmos
+https://radiostreaming.ert.gr/ert-kosmos
+
 
 #Radio FR
 #EXTINF:-1 tvg-id="" tvg-name="JazzSoul" tvg-logo="https://kodibd.github.io/lo/r/jazzradio.png" group-title="Jazz Radio" radio="true",JazzSoul
@@ -349,13 +348,7 @@ https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.aac?i=89856
 #EXTINF:-1 tvg-id="" tvg-name="Saxo Jazz" tvg-logo="https://kodibd.github.io/lo/r/saxo-jazz1.png" group-title="Jazz Radio" radio="true",Saxo Jazz
 https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.aac?i=27871
 
-#Radio GR
-#EXTINF:-1,GR Radio
-radio/gr.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Kosmos Jazz" tvg-logo="https://kodibd.github.io/IP/radio/gr/KosmosJazz.png" group-title="Jazz Radio" radio="true",Kosmos Jazz
-https://radiostreaming.ert.gr/ert-webjazz
-#EXTINF:-1 tvg-id="" tvg-name="Kosmos" tvg-logo="https://kodibd.github.io/IP/radio/gr/Kosmos.png" group-title="Jazz Radio" radio="true",Kosmos
-https://radiostreaming.ert.gr/ert-kosmos
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Audio_1" tvg-logo="" group-title="Undrgrnd" radio="true",Audio_1
@@ -366,4 +359,28 @@ https://555ip.github.io/Audio/1/dgk.m3u8
 http://radiofg.impek.com/fgc64.aac
 #EXTINF:-1,FG Undrgrnd
 http://radiofg.impek.com/ufg.mp3
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Test1" tvg-logo="" group-title="University TV" radio="false",Test1
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&gdpr=0
+#EXTINF:-1 tvg-id="" tvg-name="Test2" tvg-logo="" group-title="University TV" radio="false",Test2
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=568gy82kf3hp&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="TRTbelgesel" tvg-name="" tvg-logo="" group-title="Nature" radio="false",TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Haber Türk" tvg-logo="" group-title="TV Channels" radio="false",Haber Türk 2
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trt2.jpg" group-title="TRT" radio="false",TRT2
+https://kodibd.github.io/IP/tr/trt/trt2.m3u8
+#EXTINF:-1,TRT2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="https://kodibd.github.io/IP/sports/gstv.png" group-title="Sports" radio="false",GS TV
+https://kodibd.github.io/IP/sports/gstv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fishing TV1" tvg-logo="" group-title="Nature" radio="false",Fishing TV1
+https://l24.im/utl1
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://kodibd.github.io/IP/sports/fox_sports_au.png" group-title="Sports" radio="false",Fox Sports
+https://kodibd.github.io/IP/sports/foxsports.m3u8
 
