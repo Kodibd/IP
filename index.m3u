@@ -37,20 +37,6 @@ https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Power TV Dance" tvg-logo="https://kodibd.github.io/IP/music/power/powerdance.png" group-title="Music" radio="false",Power TV Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BLUES TV
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/thumbh_20200917_223145_270.jpg" group-title="Undefined",Yoga
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-yoga/017b7c6f-d25b-47b3-8a82-a7dc91a3dc3b/2.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yoga Fit 720p
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/acbb249c-6c52-4161-b1c6-882ce9501ba8/1.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yoga Fit 1080p
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/acbb249c-6c52-4161-b1c6-882ce9501ba8/2.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yol_tv_de.png" group-title="TV Channels" radio="false",YOL TV
 https://kodibd.github.io/IP/tr/yol/yol.m3u8
 
@@ -60,8 +46,8 @@ https://kodibd.github.io/IP/tr/halk/htv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="https://kodibd.github.io/IP/tr/YabanTV/yaban.png" group-title="Nature" radio="false",Yaban TV
 https://kodibd.github.io/IP/tr/YabanTV/yaban.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Çiftci TV" tvg-logo="https://kodibd.github.io/IP/tr/YabanTV/yaban.png" group-title="Nature" radio="false", Çiftci TV
-https://kodibd.github.io/IP/tr/Ciftci/ciftci.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Çiftci TV" tvg-logo="https://kodibd.github.io/IP/tr/CiftciTV/ciftci.png" group-title="Nature" radio="false", Çiftci TV
+https://kodibd.github.io/IP/tr/CiftciTV/ciftci.m3u8
 
 #Egeo
 #EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",TV 48
@@ -69,6 +55,9 @@ https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kent Tv" tvg-logo="https://kodibd.github.io/IP/tr/kent/kent.png" group-title="TV Channels" radio="false",Kent Tv
 https://kodibd.github.io/IP/tr/kent/kent.m3u8
+
+
+
 
 
 
@@ -95,9 +84,20 @@ https://kodibd.github.io/IP/tvch/cablehits.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Bob Ross Channel" tvg-logo="" group-title="Nature" radio="false",The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Fishing TV1" tvg-logo="" group-title="Nature" radio="false",Fishing TV1
 https://l24.im/utl1
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BLUES TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/thumbh_20200917_223145_270.jpg" group-title="Undefined",Yoga
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-yoga/017b7c6f-d25b-47b3-8a82-a7dc91a3dc3b/2.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yoga Fit 720p
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/acbb249c-6c52-4161-b1c6-882ce9501ba8/1.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yoga Fit 1080p
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/acbb249c-6c52-4161-b1c6-882ce9501ba8/2.m3u8
 
 
 
