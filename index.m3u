@@ -57,6 +57,12 @@ https://kodibd.github.io/IP/tr/yol/yol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk-tv-tr.png" group-title="TV Channels" radio="false",Halk TV
 https://kodibd.github.io/IP/tr/halk/htv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="https://kodibd.github.io/IP/tr/YabanTV/yaban.png" group-title="Nature" radio="false",Yaban TV
+https://kodibd.github.io/IP/tr/YabanTV/yaban.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Çiftci TV" tvg-logo="https://kodibd.github.io/IP/tr/YabanTV/yaban.png" group-title="Nature" radio="false", Çiftci TV
+https://kodibd.github.io/IP/tr/Ciftci/ciftci.m3u8
+
 #Egeo
 #EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",TV 48
 https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
@@ -201,8 +207,7 @@ https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png" group-title="TV Channels" radio="false",M Türk
 https://kodibd.github.io/IP/tr/mTurk/mtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="https://kodibd.github.io/IP/tr/YabanTV/yaban.png" group-title="Nature" radio="false",Yaban TV
-https://kodibd.github.io/IP/tr/YabanTV/yaban.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Test1" tvg-logo="" group-title="University TV" radio="false",Test1
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&gdpr=0
