@@ -96,7 +96,7 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/rnvhxjff/720/
 #USA
 
 #EXTINF:-1 tvg-id="" tvg-name="Motor Racing" tvg-logo="" group-title="TV Channels "radio="false",Motor Racing
-https://kodibd.github.io/IP/tvch/usa/mr.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Outside" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outside-tv-us.png" group-title="TV Channels "radio="false",Outside
 https://kodibd.github.io/IP/tvch/usa/outside.m3u8
