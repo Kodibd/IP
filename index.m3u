@@ -1,6 +1,15 @@
 #EXTM3U
 #Ulusal
 
+#EXTINF:-1 tvg-id="" tvg-name="D Max" tvg-logo="https://kodibd.github.io/IP/tr/dogus/dmax.png" group-title="Doğuş" radio="false",D Max
+https://kodibd.github.io/IP/tr/dogus/dmax.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://kodibd.github.io/IP/tr/dogus/tlc.png" group-title="Doğuş" radio="false",TLC
+https://kodibd.github.io/IP/tr/dogus/tlc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://kodibd.github.io/IP/tr/dogus/ntv.png" group-title="Doğuş" radio="false",NTV
+https://kodibd.github.io/IP/tr/dogus/ntv.m3u8
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/10660277.png" group-title="TRT" radio="false",TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
