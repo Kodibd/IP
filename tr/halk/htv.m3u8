@@ -1,10 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=400000
-https://halktv-live.ercdn.net/halktv/halktv_360p.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000
-https://halktv-live.ercdn.net/halktv/halktv_480p.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://halktv-live.ercdn.net/halktv/halktv_720p.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1050000,AVERAGE-BANDWIDTH=950000,RESOLUTION=1280x720
+https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=61kejac712ew&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
