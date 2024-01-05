@@ -66,6 +66,9 @@ https://kodibd.github.io/IP/tr/KoyTV/koy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="https://kodibd.github.io/IP/tr/tv48/tv48.png" group-title="TV Channels" radio="false",TV 48
 https://kodibd.github.io/IP/tr/tv48/tv48.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png" group-title="TV Channels" radio="false",M Türk
+https://kodibd.github.io/IP/tr/mTurk/mtv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Kent Tv" tvg-logo="https://kodibd.github.io/IP/tr/kent/kent.png" group-title="TV Channels" radio="false",Kent Tv
 https://kodibd.github.io/IP/tr/kent/kent.m3u8
 
@@ -215,8 +218,7 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="M Türk" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png" group-title="TV Channels" radio="false",M Türk
-https://kodibd.github.io/IP/tr/mTurk/mtv.m3u8
+
 
 
 
