@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Radio 1",
+    "director": "Yönetmen 1",
+    "genre": "Dance",
+    "release_date": "2022-01-01",
+    "duration": 120,
+    "description": "Film 1 hakkında kısa bir açıklama.",
+    "poster": "https://static.mytuner.mobi/media/tvos_radios/ayazaxbrsdzp.png",
+    "trailer_url": "https://antares.dribbcast.com/proxy/dave1?mp=%2Fstream",
+    "imdb_rating": 7.5,
+    "actors": ["Oyuncu 1", "Oyuncu 2", "Oyuncu 3"]
+  },
+  {
+    "title": "Film 2",
+    "director": "Yönetmen 2",
+    "genre": "Komedi",
+    "release_date": "2022-02-01",
+    "duration": 90,
+    "description": "Film 2 hakkında kısa bir açıklama.",
+    "poster": "poster2.png",
+    "trailer_url": "http://example.com/film2-trailer",
+    "imdb_rating": 8.2,
+    "actors": ["Oyuncu 4", "Oyuncu 5", "Oyuncu 6"]
+  }
+  
+]
