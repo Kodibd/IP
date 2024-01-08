@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://kodibd.github.io/IP/radio.json"
 
 #EXTINF:-1 tvg-id="" tvg-name="D n B Liquified live" tvg-logo="" group-title="Undrgrnd" radio="true",D n B Liquified live
 https://antares.dribbcast.com/proxy/dave1?mp=%2Fstream
