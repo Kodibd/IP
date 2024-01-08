@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="D n B Liquified live" tvg-logo="" group-title="Undrgrnd" radio="true",D n B Liquified live
+https://antares.dribbcast.com/proxy/dave1?mp=%2Fstream
 
 #Radio TR
 #EXTINF:-1,
