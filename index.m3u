@@ -122,6 +122,9 @@ https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8?checkedby
 #EXTINF:0 tvg-country="US" tvg-logo="https://cmctv.com/cmc/images/camuslogo.gif" group-title="Undefined",CMC CALIFORNIA MUSIC CHANNEL (US)
 https://kodibd.github.io/IP/tvch/usa/cmc.m3u8
 
+#EXTINF:0 tvg-country="US" tvg-logo="https://avang.live/avang-live-cover.jpg" group-title="Undefined",Avang TV (US)
+https://hls.avang.live/hls/stream.m3u8
+
 #EXTINF:0 tvg-country="US" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/thumbh_20200917_223145_270.jpg" group-title="Undefined",Yoga (US)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-yoga/017b7c6f-d25b-47b3-8a82-a7dc91a3dc3b/2.m3u8
 
