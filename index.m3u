@@ -107,6 +107,32 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/rnvhxjff/720/
 #EXTINF:-1 tvg-id="" tvg-name="The Bob Ross Channel" tvg-logo="" group-title="Nature" radio="false", Just Vogue TV
 https://tivi191.ozelip.com:3873/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="" group-title="Doğuş" radio="false", Fashion 720p
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="" group-title="Doğuş" radio="false", Fashion 1080p
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="" group-title="Doğuş" radio="false", Fashion
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="" group-title="Doğuş" radio="false", FashionTV Paris L'Orginal
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="" group-title="Doğuş" radio="false", FashionTV New York
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="" group-title="Doğuş" radio="false", FashionTV Johannesburg
+https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="" group-title="Doğuş" radio="false", FashionTV Tokyo
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_hd_uir_43438_vidio_id_1609_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="" group-title="Doğuş" radio="false", FashionTV Singapore
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png" group-title="Nature" radio="false",Brat TV
 https://kodibd.github.io/IP/tvch/usa/brat.m3u8
 
